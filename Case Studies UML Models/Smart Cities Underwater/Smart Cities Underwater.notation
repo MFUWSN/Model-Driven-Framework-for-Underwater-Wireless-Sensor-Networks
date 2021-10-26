@@ -1,0 +1,1815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style">
+  <notation:Diagram xmi:id="_omCQANNvEeuZatygrm-7Lg" type="PapyrusUMLClassDiagram" name="Class Diagram" measurementUnit="Pixel">
+    <children xsi:type="notation:Shape" xmi:id="_PfvEgdNwEeuZatygrm-7Lg" type="Model_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_PfvEg9NwEeuZatygrm-7Lg" type="Model_NameLabel"/>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_PfvEhNNwEeuZatygrm-7Lg" type="Model_PackagedElementCompartment">
+        <children xsi:type="notation:Shape" xmi:id="_mmb6UNNwEeuZatygrm-7Lg" type="Class_Shape_CN">
+          <children xsi:type="notation:DecorationNode" xmi:id="_mmb6UtNwEeuZatygrm-7Lg" type="Class_NameLabel_CN"/>
+          <children xsi:type="notation:DecorationNode" xmi:id="_mmb6U9NwEeuZatygrm-7Lg" type="Class_FloatingNameLabel_CN">
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_mmb6VNNwEeuZatygrm-7Lg" y="15"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_mmb6VdNwEeuZatygrm-7Lg" type="Class_AttributeCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="_xvhn0Ns1EeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_xuklkNs1EeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_xvhn0ds1EeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_-hQN4Ns1EeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_-fAyMNs1EeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_-hQN4ds1EeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_T0xO0Ns2EeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_Tzp0gNs2EeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_T0xO0ds2EeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_dfAfgNs2EeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_ddJeUNs2EeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_dfAfgds2EeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_txwVQNs2EeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_twyr8Ns2EeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_txwVQds2EeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_BTWsoNs3EeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_BSaRcNs3EeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_BTWsods3EeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_ITcrQNs3EeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_ISSNoNs3EeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_ITcrQds3EeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_mmb6VtNwEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_mmb6V9NwEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_mmb6WNNwEeuZatygrm-7Lg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_mmb6WdNwEeuZatygrm-7Lg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_mmb6WtNwEeuZatygrm-7Lg" type="Class_OperationCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_mmb6W9NwEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_mmb6XNNwEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_mmb6XdNwEeuZatygrm-7Lg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_mmb6XtNwEeuZatygrm-7Lg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_mmb6X9NwEeuZatygrm-7Lg" type="Class_NestedClassifierCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_mmb6YNNwEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_mmb6YdNwEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_mmb6YtNwEeuZatygrm-7Lg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_mmb6Y9NwEeuZatygrm-7Lg"/>
+          </children>
+          <element href="Smart%20Cities%20Underwater.uml#_mmSJUNNwEeuZatygrm-7Lg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_mmb6UdNwEeuZatygrm-7Lg" x="94" y="28" width="301" height="221"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_zXfyANNwEeuZatygrm-7Lg" type="Class_Shape_CN">
+          <children xsi:type="notation:DecorationNode" xmi:id="_zXfyAtNwEeuZatygrm-7Lg" type="Class_NameLabel_CN"/>
+          <children xsi:type="notation:DecorationNode" xmi:id="_zXfyA9NwEeuZatygrm-7Lg" type="Class_FloatingNameLabel_CN">
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_zXfyBNNwEeuZatygrm-7Lg" y="15"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_zXfyBdNwEeuZatygrm-7Lg" type="Class_AttributeCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="_41CKkNs4EeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_40HkkNs4EeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_41CKkds4EeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_GMWxANs5EeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_GK1HANs5EeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_GMWxAds5EeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_zXfyBtNwEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_zXfyB9NwEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_zXfyCNNwEeuZatygrm-7Lg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zXfyCdNwEeuZatygrm-7Lg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_zXfyCtNwEeuZatygrm-7Lg" type="Class_OperationCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="_WDvqANtFEeuN-rQx2yUVow" type="Operation_ClassOperationLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_WCOAANtFEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_WDvqAdtFEeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_XnIIUNtFEeuN-rQx2yUVow" type="Operation_ClassOperationLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_XmSa0NtFEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_XnIIUdtFEeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_zXfyC9NwEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_zXfyDNNwEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_zXfyDdNwEeuZatygrm-7Lg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zXfyDtNwEeuZatygrm-7Lg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_zXfyD9NwEeuZatygrm-7Lg" type="Class_NestedClassifierCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="_wWSCINsjEeuN-rQx2yUVow" type="Class_ClassNestedClassifierLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_wUmnINsjEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_wWSCIdsjEeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_zXfyENNwEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_zXfyEdNwEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_zXfyEtNwEeuZatygrm-7Lg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zXfyE9NwEeuZatygrm-7Lg"/>
+          </children>
+          <element href="Smart%20Cities%20Underwater.uml#_zXWBANNwEeuZatygrm-7Lg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zXfyAdNwEeuZatygrm-7Lg" x="614" y="148" width="221" height="141"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_JxD1ANNxEeuZatygrm-7Lg" type="Class_Shape_CN">
+          <children xsi:type="notation:DecorationNode" xmi:id="_JxItgNNxEeuZatygrm-7Lg" type="Class_NameLabel_CN"/>
+          <children xsi:type="notation:DecorationNode" xmi:id="_JxItgdNxEeuZatygrm-7Lg" type="Class_FloatingNameLabel_CN">
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_JxItgtNxEeuZatygrm-7Lg" y="15"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_JxItg9NxEeuZatygrm-7Lg" type="Class_AttributeCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_JxIthNNxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_JxIthdNxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_JxIthtNxEeuZatygrm-7Lg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_JxIth9NxEeuZatygrm-7Lg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_JxItiNNxEeuZatygrm-7Lg" type="Class_OperationCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_JxItidNxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_JxItitNxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_JxIti9NxEeuZatygrm-7Lg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_JxItjNNxEeuZatygrm-7Lg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_JxItjdNxEeuZatygrm-7Lg" type="Class_NestedClassifierCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_JxItjtNxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_JxItj9NxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_JxItkNNxEeuZatygrm-7Lg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_JxItkdNxEeuZatygrm-7Lg"/>
+          </children>
+          <element href="Smart%20Cities%20Underwater.uml#_Jw6EANNxEeuZatygrm-7Lg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_JxD1AdNxEeuZatygrm-7Lg" x="1034" y="168" width="161" height="101"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_N6yDcNNxEeuZatygrm-7Lg" type="Class_Shape_CN">
+          <children xsi:type="notation:DecorationNode" xmi:id="_N6yDctNxEeuZatygrm-7Lg" type="Class_NameLabel_CN"/>
+          <children xsi:type="notation:DecorationNode" xmi:id="_N6yDc9NxEeuZatygrm-7Lg" type="Class_FloatingNameLabel_CN">
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_N6yDdNNxEeuZatygrm-7Lg" y="15"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_N6yDddNxEeuZatygrm-7Lg" type="Class_AttributeCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="_O6JdANs4EeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_O5IJUNs4EeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_O6JdAds4EeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_N6yDdtNxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_N6yDd9NxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_N6yDeNNxEeuZatygrm-7Lg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_N6yDedNxEeuZatygrm-7Lg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_N6278NNxEeuZatygrm-7Lg" type="Class_OperationCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_N6278dNxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_N6278tNxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_N62789NxEeuZatygrm-7Lg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_N6279NNxEeuZatygrm-7Lg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_N6279dNxEeuZatygrm-7Lg" type="Class_NestedClassifierCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_N6279tNxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_N62799NxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_N627-NNxEeuZatygrm-7Lg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_N627-dNxEeuZatygrm-7Lg"/>
+          </children>
+          <element href="Smart%20Cities%20Underwater.uml#_N6oScNNxEeuZatygrm-7Lg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_N6yDcdNxEeuZatygrm-7Lg" x="614" y="468" width="201" height="101"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_ZE810NNxEeuZatygrm-7Lg" type="Class_Shape_CN">
+          <children xsi:type="notation:DecorationNode" xmi:id="_ZE810tNxEeuZatygrm-7Lg" type="Class_NameLabel_CN"/>
+          <children xsi:type="notation:DecorationNode" xmi:id="_ZE8109NxEeuZatygrm-7Lg" type="Class_FloatingNameLabel_CN">
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_ZE811NNxEeuZatygrm-7Lg" y="15"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_ZE811dNxEeuZatygrm-7Lg" type="Class_AttributeCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="_FGpT4Ns-EeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_FFrDgNs-EeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_FGpT4ds-EeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_MNv5cNs-EeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_MM1TcNs-EeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_MNv5cds-EeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_PcjXwNs-EeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_PbQXQNs-EeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_PcjXwds-EeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_ZE811tNxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_ZE8119NxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_ZE812NNxEeuZatygrm-7Lg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_ZE812dNxEeuZatygrm-7Lg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_ZE812tNxEeuZatygrm-7Lg" type="Class_OperationCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_ZE8129NxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_ZE813NNxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_ZE813dNxEeuZatygrm-7Lg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_ZE813tNxEeuZatygrm-7Lg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_ZE8139NxEeuZatygrm-7Lg" type="Class_NestedClassifierCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_ZE814NNxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_ZE814dNxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_ZE814tNxEeuZatygrm-7Lg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_ZE8149NxEeuZatygrm-7Lg"/>
+          </children>
+          <element href="Smart%20Cities%20Underwater.uml#_ZEzE0NNxEeuZatygrm-7Lg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_ZE810dNxEeuZatygrm-7Lg" x="1034" y="348" width="201" height="121"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_l53SwNNxEeuZatygrm-7Lg" type="Class_Shape_CN">
+          <children xsi:type="notation:DecorationNode" xmi:id="_l53SwtNxEeuZatygrm-7Lg" type="Class_NameLabel_CN"/>
+          <children xsi:type="notation:DecorationNode" xmi:id="_l58LQNNxEeuZatygrm-7Lg" type="Class_FloatingNameLabel_CN">
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_l58LQdNxEeuZatygrm-7Lg" y="15"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_l58LQtNxEeuZatygrm-7Lg" type="Class_AttributeCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="_WP3CINs_EeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_WPLFoNs_EeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_WP3CIds_EeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_s-ogINs_EeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_s9kJINs_EeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_s-ogIds_EeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_1nvrANs_EeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_1m-2ANs_EeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_1nvrAds_EeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_57618Ns_EeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_567XcNs_EeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_57618ds_EeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_-6zKwNs_EeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_-54kwNs_EeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_-6zKwds_EeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_5-qLcNtAEeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_590d8NtAEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_5-qLcdtAEeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_l58LQ9NxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_l58LRNNxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_l58LRdNxEeuZatygrm-7Lg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_l58LRtNxEeuZatygrm-7Lg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_l58LR9NxEeuZatygrm-7Lg" type="Class_OperationCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="_E1iD0NtAEeuN-rQx2yUVow" type="Operation_ClassOperationLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_E0sWUNtAEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_E1iD0dtAEeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_Ac-SsNtBEeuN-rQx2yUVow" type="Operation_ClassOperationLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_AcIlMNtBEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_Ac-SsdtBEeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_l58LSNNxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_l58LSdNxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_l58LStNxEeuZatygrm-7Lg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_l58LS9NxEeuZatygrm-7Lg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_l58LTNNxEeuZatygrm-7Lg" type="Class_NestedClassifierCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_l58LTdNxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_l58LTtNxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_l58LT9NxEeuZatygrm-7Lg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_l58LUNNxEeuZatygrm-7Lg"/>
+          </children>
+          <element href="Smart%20Cities%20Underwater.uml#_l5opQNNxEeuZatygrm-7Lg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_l53SwdNxEeuZatygrm-7Lg" x="1034" y="608" width="260" height="240"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_3xYG4NNxEeuZatygrm-7Lg" type="Class_Shape_CN">
+          <children xsi:type="notation:DecorationNode" xmi:id="_3xYG4tNxEeuZatygrm-7Lg" type="Class_NameLabel_CN"/>
+          <children xsi:type="notation:DecorationNode" xmi:id="_3xYG49NxEeuZatygrm-7Lg" type="Class_FloatingNameLabel_CN">
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_3xYG5NNxEeuZatygrm-7Lg" y="15"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_3xYG5dNxEeuZatygrm-7Lg" type="Class_AttributeCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_3xYG5tNxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_3xYG59NxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_3xYG6NNxEeuZatygrm-7Lg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_3xYG6dNxEeuZatygrm-7Lg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_3xYG6tNxEeuZatygrm-7Lg" type="Class_OperationCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_3xYG69NxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_3xYG7NNxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_3xYG7dNxEeuZatygrm-7Lg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_3xYG7tNxEeuZatygrm-7Lg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_3xYG79NxEeuZatygrm-7Lg" type="Class_NestedClassifierCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_3xYG8NNxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_3xYG8dNxEeuZatygrm-7Lg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_3xYG8tNxEeuZatygrm-7Lg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_3xYG89NxEeuZatygrm-7Lg"/>
+          </children>
+          <element href="Smart%20Cities%20Underwater.uml#_3xEk4NNxEeuZatygrm-7Lg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_3xYG4dNxEeuZatygrm-7Lg" x="854" y="1028" width="180" height="120"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_-TbMoNQ3EeunyfVQIIvjpg" type="Class_Shape_CN">
+          <children xsi:type="notation:DecorationNode" xmi:id="_-TlksNQ3EeunyfVQIIvjpg" type="Class_NameLabel_CN"/>
+          <children xsi:type="notation:DecorationNode" xmi:id="_-TmLwNQ3EeunyfVQIIvjpg" type="Class_FloatingNameLabel_CN">
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_-TmLwdQ3EeunyfVQIIvjpg" y="15"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_-TnZ4NQ3EeunyfVQIIvjpg" type="Class_AttributeCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="_1ontYNtCEeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_1nK74NtCEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_1ontYdtCEeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_5a6TQNtCEeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_5aElwNtCEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_5a6TQdtCEeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_-TnZ4dQ3EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_-TnZ4tQ3EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_-TnZ49Q3EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_-TnZ5NQ3EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_-TnZ5dQ3EeunyfVQIIvjpg" type="Class_OperationCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="_JtETINtDEeuN-rQx2yUVow" type="Operation_ClassOperationLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_Jr7DoNtDEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_JtETIdtDEeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_-TnZ5tQ3EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_-TnZ59Q3EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_-TnZ6NQ3EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_-TnZ6dQ3EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_-TnZ6tQ3EeunyfVQIIvjpg" type="Class_NestedClassifierCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_-TnZ69Q3EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_-TnZ7NQ3EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_-TnZ7dQ3EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_-TnZ7tQ3EeunyfVQIIvjpg"/>
+          </children>
+          <element href="Smart%20Cities%20Underwater.uml#_-SbHENQ3EeunyfVQIIvjpg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_-TbModQ3EeunyfVQIIvjpg" x="634" y="768" width="220" height="160"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_OV1gUNQ4EeunyfVQIIvjpg" type="Class_Shape_CN">
+          <children xsi:type="notation:DecorationNode" xmi:id="_OV2HYNQ4EeunyfVQIIvjpg" type="Class_NameLabel_CN"/>
+          <children xsi:type="notation:DecorationNode" xmi:id="_OV2ucNQ4EeunyfVQIIvjpg" type="Class_FloatingNameLabel_CN">
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_OV2ucdQ4EeunyfVQIIvjpg" y="15"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_OV2uctQ4EeunyfVQIIvjpg" type="Class_AttributeCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="_6JqA4NtIEeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_6IzsUNtIEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_6JqA4dtIEeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_cK-xMNtJEeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_cKQYcNtJEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_cK-xMdtJEeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_OV2uc9Q4EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_OV2udNQ4EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_OV2uddQ4EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_OV2udtQ4EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_OV2ud9Q4EeunyfVQIIvjpg" type="Class_OperationCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_OV2ueNQ4EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_OV2uedQ4EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_OV2uetQ4EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_OV2ue9Q4EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_OV2ufNQ4EeunyfVQIIvjpg" type="Class_NestedClassifierCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_OV2ufdQ4EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_OV2uftQ4EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_OV2uf9Q4EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_OV2ugNQ4EeunyfVQIIvjpg"/>
+          </children>
+          <element href="Smart%20Cities%20Underwater.uml#_OVZbcNQ4EeunyfVQIIvjpg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_OV1gUdQ4EeunyfVQIIvjpg" x="34" y="428" width="220" height="120"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_SbH6sNQ4EeunyfVQIIvjpg" type="Class_Shape_CN">
+          <children xsi:type="notation:DecorationNode" xmi:id="_SbH6stQ4EeunyfVQIIvjpg" type="Class_NameLabel_CN"/>
+          <children xsi:type="notation:DecorationNode" xmi:id="_SbH6s9Q4EeunyfVQIIvjpg" type="Class_FloatingNameLabel_CN">
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_SbH6tNQ4EeunyfVQIIvjpg" y="15"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_SbH6tdQ4EeunyfVQIIvjpg" type="Class_AttributeCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="_HQoowNtKEeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_HPxGENtKEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_HQoowdtKEeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_PQWRUNtKEeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_PPq74NtKEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_PQWRUdtKEeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_SbH6ttQ4EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_SbH6t9Q4EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_SbH6uNQ4EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_SbH6udQ4EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_SbH6utQ4EeunyfVQIIvjpg" type="Class_OperationCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_SbH6u9Q4EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_SbH6vNQ4EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_SbH6vdQ4EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_SbH6vtQ4EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_SbIhwNQ4EeunyfVQIIvjpg" type="Class_NestedClassifierCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_SbIhwdQ4EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_SbIhwtQ4EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_SbIhw9Q4EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_SbIhxNQ4EeunyfVQIIvjpg"/>
+          </children>
+          <element href="Smart%20Cities%20Underwater.uml#_Sasc4NQ4EeunyfVQIIvjpg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_SbH6sdQ4EeunyfVQIIvjpg" x="34" y="708" width="220" height="120"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_7G-pUNQ4EeunyfVQIIvjpg" type="Class_Shape_CN">
+          <children xsi:type="notation:DecorationNode" xmi:id="_7G_QYNQ4EeunyfVQIIvjpg" type="Class_NameLabel_CN"/>
+          <children xsi:type="notation:DecorationNode" xmi:id="_7G_QYdQ4EeunyfVQIIvjpg" type="Class_FloatingNameLabel_CN">
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_7G_QYtQ4EeunyfVQIIvjpg" y="15"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_7G_QY9Q4EeunyfVQIIvjpg" type="Class_AttributeCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="_zvH7gNtKEeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_zuaw4NtKEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_zvH7gdtKEeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_7G_QZNQ4EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_7G_QZdQ4EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_7G_QZtQ4EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_7G_QZ9Q4EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_7G_QaNQ4EeunyfVQIIvjpg" type="Class_OperationCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="_5t3K0NtKEeuN-rQx2yUVow" type="Operation_ClassOperationLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_5tJZINtKEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_5t3K0dtKEeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_7G_QadQ4EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_7G_QatQ4EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_7G_Qa9Q4EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_7G_QbNQ4EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_7G_QbdQ4EeunyfVQIIvjpg" type="Class_NestedClassifierCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_7G_QbtQ4EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_7G_Qb9Q4EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_7G_QcNQ4EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_7G_QcdQ4EeunyfVQIIvjpg"/>
+          </children>
+          <element href="Smart%20Cities%20Underwater.uml#_7Gnc8NQ4EeunyfVQIIvjpg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_7G-pUdQ4EeunyfVQIIvjpg" x="314" y="1068" width="200" height="100"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_DdtqwNQ5EeunyfVQIIvjpg" type="Class_Shape_CN">
+          <children xsi:type="notation:DecorationNode" xmi:id="_DdtqwtQ5EeunyfVQIIvjpg" type="Class_NameLabel_CN"/>
+          <children xsi:type="notation:DecorationNode" xmi:id="_DduR0NQ5EeunyfVQIIvjpg" type="Class_FloatingNameLabel_CN">
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_DduR0dQ5EeunyfVQIIvjpg" y="15"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_DduR0tQ5EeunyfVQIIvjpg" type="Class_AttributeCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="_WidXkNtLEeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_WhuXwNtLEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_WidXkdtLEeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_t7f6kNtLEeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_t6sCQNtLEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_t7f6kdtLEeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_xoS8cNtLEeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_xnTd8NtLEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_xoS8cdtLEeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_DduR09Q5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_DduR1NQ5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_DduR1dQ5EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_DduR1tQ5EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_DduR19Q5EeunyfVQIIvjpg" type="Class_OperationCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_DduR2NQ5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_DduR2dQ5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_DduR2tQ5EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_DduR29Q5EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_DduR3NQ5EeunyfVQIIvjpg" type="Class_NestedClassifierCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_DduR3dQ5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_DduR3tQ5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_DduR39Q5EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_DduR4NQ5EeunyfVQIIvjpg"/>
+          </children>
+          <element href="Smart%20Cities%20Underwater.uml#_DdTbENQ5EeunyfVQIIvjpg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_DdtqwdQ5EeunyfVQIIvjpg" x="1494" y="1068" width="220" height="140"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_lF47QNQ5EeunyfVQIIvjpg" type="Class_Shape_CN">
+          <children xsi:type="notation:DecorationNode" xmi:id="_lF5iUNQ5EeunyfVQIIvjpg" type="Class_NameLabel_CN"/>
+          <children xsi:type="notation:DecorationNode" xmi:id="_lF5iUdQ5EeunyfVQIIvjpg" type="Class_FloatingNameLabel_CN">
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_lF5iUtQ5EeunyfVQIIvjpg" y="15"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_lF5iU9Q5EeunyfVQIIvjpg" type="Class_AttributeCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="_6ghbANtDEeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_6fh8gNtDEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_6ghbAdtDEeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_A1_vUNtEEeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_A1FJUNtEEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_A1_vUdtEEeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_EUIDENtEEeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_ETNdENtEEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_EUIDEdtEEeuN-rQx2yUVow"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_aLCE8NtEEeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_aH54cNtEEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_aLCE8dtEEeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_lF5iVNQ5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_lF5iVdQ5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_lF5iVtQ5EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_lF5iV9Q5EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_lF5iWNQ5EeunyfVQIIvjpg" type="Class_OperationCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_lF5iWdQ5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_lF5iWtQ5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_lF5iW9Q5EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_lF5iXNQ5EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_lF5iXdQ5EeunyfVQIIvjpg" type="Class_NestedClassifierCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_lF5iXtQ5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_lF5iX9Q5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_lF5iYNQ5EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_lF5iYdQ5EeunyfVQIIvjpg"/>
+          </children>
+          <element href="Smart%20Cities%20Underwater.uml#_lFggwNQ5EeunyfVQIIvjpg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_lF47QdQ5EeunyfVQIIvjpg" x="354" y="568" width="180" height="160"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_u7S6INQ5EeunyfVQIIvjpg" type="Class_Shape_CN">
+          <children xsi:type="notation:DecorationNode" xmi:id="_u7ThMNQ5EeunyfVQIIvjpg" type="Class_NameLabel_CN"/>
+          <children xsi:type="notation:DecorationNode" xmi:id="_u7ThMdQ5EeunyfVQIIvjpg" type="Class_FloatingNameLabel_CN">
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_u7ThMtQ5EeunyfVQIIvjpg" y="15"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_u7ThM9Q5EeunyfVQIIvjpg" type="Class_AttributeCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="_CDfKQNtREeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_CCuVQNtREeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_CDfKQdtREeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_u7ThNNQ5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_u7ThNdQ5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_u7ThNtQ5EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_u7ThN9Q5EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_u7ThONQ5EeunyfVQIIvjpg" type="Class_OperationCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="_XElF0NtOEeuN-rQx2yUVow" type="Operation_ClassOperationLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_XDgHwNtOEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_XElF0dtOEeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_u7ThOdQ5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_u7ThOtQ5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_u7ThO9Q5EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_u7ThPNQ5EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_u7ThPdQ5EeunyfVQIIvjpg" type="Class_NestedClassifierCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_u7ThPtQ5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_u7ThP9Q5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_u7ThQNQ5EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_u7ThQdQ5EeunyfVQIIvjpg"/>
+          </children>
+          <element href="Smart%20Cities%20Underwater.uml#_u66foNQ5EeunyfVQIIvjpg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_u7S6IdQ5EeunyfVQIIvjpg" x="1474" y="808" width="240" height="120"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_7IM74NQ5EeunyfVQIIvjpg" type="Class_Shape_CN">
+          <children xsi:type="notation:DecorationNode" xmi:id="_7INi8NQ5EeunyfVQIIvjpg" type="Class_NameLabel_CN"/>
+          <children xsi:type="notation:DecorationNode" xmi:id="_7INi8dQ5EeunyfVQIIvjpg" type="Class_FloatingNameLabel_CN">
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_7INi8tQ5EeunyfVQIIvjpg" y="15"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_7INi89Q5EeunyfVQIIvjpg" type="Class_AttributeCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="_yFzwINtREeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_yE-psNtREeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_yFzwIdtREeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_7INi9NQ5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_7INi9dQ5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_7INi9tQ5EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_7INi99Q5EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_7IOKANQ5EeunyfVQIIvjpg" type="Class_OperationCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="_Oqd44NtREeuN-rQx2yUVow" type="Operation_ClassOperationLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_OpWekNtREeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_Oqd44dtREeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_7IOKAdQ5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_7IOKAtQ5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_7IOKA9Q5EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_7IOKBNQ5EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_7IOKBdQ5EeunyfVQIIvjpg" type="Class_NestedClassifierCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_7IOKBtQ5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_7IOKB9Q5EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_7IOKCNQ5EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_7IOKCdQ5EeunyfVQIIvjpg"/>
+          </children>
+          <element href="Smart%20Cities%20Underwater.uml#_7HrXcNQ5EeunyfVQIIvjpg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_7IM74dQ5EeunyfVQIIvjpg" x="1494" y="548" width="180" height="100"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_IOvUUNQ6EeunyfVQIIvjpg" type="Class_Shape_CN">
+          <children xsi:type="notation:DecorationNode" xmi:id="_IOvUUtQ6EeunyfVQIIvjpg" type="Class_NameLabel_CN"/>
+          <children xsi:type="notation:DecorationNode" xmi:id="_IOvUU9Q6EeunyfVQIIvjpg" type="Class_FloatingNameLabel_CN">
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_IOv7YNQ6EeunyfVQIIvjpg" y="15"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_IOv7YdQ6EeunyfVQIIvjpg" type="Class_AttributeCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="_TWbcQNtSEeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_TVpZINtSEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_TWbcQdtSEeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_IOv7YtQ6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_IOv7Y9Q6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_IOv7ZNQ6EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_IOv7ZdQ6EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_IOv7ZtQ6EeunyfVQIIvjpg" type="Class_OperationCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_IOv7Z9Q6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_IOv7aNQ6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_IOv7adQ6EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_IOv7atQ6EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_IOv7a9Q6EeunyfVQIIvjpg" type="Class_NestedClassifierCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_IOv7bNQ6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_IOv7bdQ6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_IOv7btQ6EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_IOv7b9Q6EeunyfVQIIvjpg"/>
+          </children>
+          <element href="Smart%20Cities%20Underwater.uml#_IOYvANQ6EeunyfVQIIvjpg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_IOvUUdQ6EeunyfVQIIvjpg" x="1514" y="328" width="160" height="100"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_LyfH4NQ6EeunyfVQIIvjpg" type="Class_Shape_CN">
+          <children xsi:type="notation:DecorationNode" xmi:id="_LyfH4tQ6EeunyfVQIIvjpg" type="Class_NameLabel_CN"/>
+          <children xsi:type="notation:DecorationNode" xmi:id="_Lyfu8NQ6EeunyfVQIIvjpg" type="Class_FloatingNameLabel_CN">
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_Lyfu8dQ6EeunyfVQIIvjpg" y="15"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_Lyfu8tQ6EeunyfVQIIvjpg" type="Class_AttributeCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="__tlNYNtREeuN-rQx2yUVow" type="Property_ClassAttributeLabel">
+              <element href="Smart%20Cities%20Underwater.uml#__sbW0NtREeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="__tlNYdtREeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_Lyfu89Q6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_Lyfu9NQ6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_Lyfu9dQ6EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Lyfu9tQ6EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_Lyfu99Q6EeunyfVQIIvjpg" type="Class_OperationCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_Lyfu-NQ6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_Lyfu-dQ6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_Lyfu-tQ6EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_Lyfu-9Q6EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_Lyfu_NQ6EeunyfVQIIvjpg" type="Class_NestedClassifierCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_Lyfu_dQ6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_Lyfu_tQ6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_Lyfu_9Q6EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_LyfvANQ6EeunyfVQIIvjpg"/>
+          </children>
+          <element href="Smart%20Cities%20Underwater.uml#_LyH7gNQ6EeunyfVQIIvjpg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_LyfH4dQ6EeunyfVQIIvjpg" x="1834" y="568" width="180" height="100"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_kMyTkNQ6EeunyfVQIIvjpg" type="Class_Shape_CN">
+          <children xsi:type="notation:DecorationNode" xmi:id="_kMy6oNQ6EeunyfVQIIvjpg" type="Class_NameLabel_CN"/>
+          <children xsi:type="notation:DecorationNode" xmi:id="_kMy6odQ6EeunyfVQIIvjpg" type="Class_FloatingNameLabel_CN">
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_kMy6otQ6EeunyfVQIIvjpg" y="15"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_kMy6o9Q6EeunyfVQIIvjpg" type="Class_AttributeCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_kMy6pNQ6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_kMy6pdQ6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_kMy6ptQ6EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_kMy6p9Q6EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_kMy6qNQ6EeunyfVQIIvjpg" type="Class_OperationCompartment_CN">
+            <children xsi:type="notation:Shape" xmi:id="_wpd4gNtSEeuN-rQx2yUVow" type="Operation_ClassOperationLabel">
+              <element href="Smart%20Cities%20Underwater.uml#_wox8ANtSEeuN-rQx2yUVow"/>
+              <layoutConstraint xsi:type="notation:Location" xmi:id="_wpd4gdtSEeuN-rQx2yUVow"/>
+            </children>
+            <styles xsi:type="notation:TitleStyle" xmi:id="_kMy6qdQ6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_kMy6qtQ6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_kMy6q9Q6EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_kMy6rNQ6EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_kMy6rdQ6EeunyfVQIIvjpg" type="Class_NestedClassifierCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_kMy6rtQ6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_kMy6r9Q6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_kMy6sNQ6EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_kMy6sdQ6EeunyfVQIIvjpg"/>
+          </children>
+          <element href="Smart%20Cities%20Underwater.uml#_kMWOsNQ6EeunyfVQIIvjpg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_kMyTkdQ6EeunyfVQIIvjpg" x="1814" y="328" width="180" height="100"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_1tRu0NQ6EeunyfVQIIvjpg" type="Class_Shape_CN">
+          <children xsi:type="notation:DecorationNode" xmi:id="_1tRu0tQ6EeunyfVQIIvjpg" type="Class_NameLabel_CN"/>
+          <children xsi:type="notation:DecorationNode" xmi:id="_1tRu09Q6EeunyfVQIIvjpg" type="Class_FloatingNameLabel_CN">
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_1tRu1NQ6EeunyfVQIIvjpg" y="15"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_1tRu1dQ6EeunyfVQIIvjpg" type="Class_AttributeCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_1tRu1tQ6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_1tRu19Q6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_1tRu2NQ6EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_1tRu2dQ6EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_1tRu2tQ6EeunyfVQIIvjpg" type="Class_OperationCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_1tRu29Q6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_1tRu3NQ6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_1tRu3dQ6EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_1tRu3tQ6EeunyfVQIIvjpg"/>
+          </children>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_1tRu39Q6EeunyfVQIIvjpg" type="Class_NestedClassifierCompartment_CN">
+            <styles xsi:type="notation:TitleStyle" xmi:id="_1tRu4NQ6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:SortingStyle" xmi:id="_1tRu4dQ6EeunyfVQIIvjpg"/>
+            <styles xsi:type="notation:FilteringStyle" xmi:id="_1tRu4tQ6EeunyfVQIIvjpg"/>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_1tRu49Q6EeunyfVQIIvjpg"/>
+          </children>
+          <element href="Smart%20Cities%20Underwater.uml#_1s7wkNQ6EeunyfVQIIvjpg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_1tRu0dQ6EeunyfVQIIvjpg" x="1834" y="808" width="160" height="100"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_zJHWwOIhEeuow9wEZOIavw" type="StereotypeComment">
+          <styles xsi:type="notation:TitleStyle" xmi:id="_zJHWweIhEeuow9wEZOIavw"/>
+          <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zJHWw-IhEeuow9wEZOIavw" name="BASE_ELEMENT">
+            <eObjectValue href="Smart%20Cities%20Underwater.uml#_mmSJUNNwEeuZatygrm-7Lg"/>
+          </styles>
+          <element xsi:nil="true"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zJHWwuIhEeuow9wEZOIavw" x="294" y="28"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_zKR0ZeIhEeuow9wEZOIavw" type="StereotypeComment">
+          <styles xsi:type="notation:TitleStyle" xmi:id="_zKR0ZuIhEeuow9wEZOIavw"/>
+          <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zKR0aOIhEeuow9wEZOIavw" name="BASE_ELEMENT">
+            <eObjectValue href="Smart%20Cities%20Underwater.uml#_zXWBANNwEeuZatygrm-7Lg"/>
+          </styles>
+          <element xsi:nil="true"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zKR0Z-IhEeuow9wEZOIavw" x="814" y="148"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_zMDWAOIhEeuow9wEZOIavw" type="StereotypeComment">
+          <styles xsi:type="notation:TitleStyle" xmi:id="_zMDWAeIhEeuow9wEZOIavw"/>
+          <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zMDWA-IhEeuow9wEZOIavw" name="BASE_ELEMENT">
+            <eObjectValue href="Smart%20Cities%20Underwater.uml#_l5opQNNxEeuZatygrm-7Lg"/>
+          </styles>
+          <element xsi:nil="true"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zMDWAuIhEeuow9wEZOIavw" x="1234" y="608"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_zNHtEeIhEeuow9wEZOIavw" type="StereotypeComment">
+          <styles xsi:type="notation:TitleStyle" xmi:id="_zNHtEuIhEeuow9wEZOIavw"/>
+          <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zNHtFOIhEeuow9wEZOIavw" name="BASE_ELEMENT">
+            <eObjectValue href="Smart%20Cities%20Underwater.uml#_-SbHENQ3EeunyfVQIIvjpg"/>
+          </styles>
+          <element xsi:nil="true"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zNHtE-IhEeuow9wEZOIavw" x="834" y="768"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_zOkegOIhEeuow9wEZOIavw" type="StereotypeComment">
+          <styles xsi:type="notation:TitleStyle" xmi:id="_zOkegeIhEeuow9wEZOIavw"/>
+          <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zOkeg-IhEeuow9wEZOIavw" name="BASE_ELEMENT">
+            <eObjectValue href="Smart%20Cities%20Underwater.uml#_DdTbENQ5EeunyfVQIIvjpg"/>
+          </styles>
+          <element xsi:nil="true"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zOkeguIhEeuow9wEZOIavw" x="1694" y="1068"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_zPBxgOIhEeuow9wEZOIavw" type="StereotypeComment">
+          <styles xsi:type="notation:TitleStyle" xmi:id="_zPBxgeIhEeuow9wEZOIavw"/>
+          <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zPLigOIhEeuow9wEZOIavw" name="BASE_ELEMENT">
+            <eObjectValue href="Smart%20Cities%20Underwater.uml#_lFggwNQ5EeunyfVQIIvjpg"/>
+          </styles>
+          <element xsi:nil="true"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zPBxguIhEeuow9wEZOIavw" x="554" y="568"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_zRsrAOIhEeuow9wEZOIavw" type="StereotypeComment">
+          <styles xsi:type="notation:TitleStyle" xmi:id="_zRsrAeIhEeuow9wEZOIavw"/>
+          <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zRsrA-IhEeuow9wEZOIavw" name="BASE_ELEMENT">
+            <eObjectValue href="Smart%20Cities%20Underwater.uml#_IOYvANQ6EeunyfVQIIvjpg"/>
+          </styles>
+          <element xsi:nil="true"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zRsrAuIhEeuow9wEZOIavw" x="1714" y="328"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_zSFFheIhEeuow9wEZOIavw" type="StereotypeComment">
+          <styles xsi:type="notation:TitleStyle" xmi:id="_zSFFhuIhEeuow9wEZOIavw"/>
+          <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zSFFiOIhEeuow9wEZOIavw" name="BASE_ELEMENT">
+            <eObjectValue href="Smart%20Cities%20Underwater.uml#_LyH7gNQ6EeunyfVQIIvjpg"/>
+          </styles>
+          <element xsi:nil="true"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zSFFh-IhEeuow9wEZOIavw" x="2034" y="568"/>
+        </children>
+        <children xsi:type="notation:Shape" xmi:id="_zSsJgOIhEeuow9wEZOIavw" type="StereotypeComment">
+          <styles xsi:type="notation:TitleStyle" xmi:id="_zSsJgeIhEeuow9wEZOIavw"/>
+          <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zSsJg-IhEeuow9wEZOIavw" name="BASE_ELEMENT">
+            <eObjectValue href="Smart%20Cities%20Underwater.uml#_1s7wkNQ6EeunyfVQIIvjpg"/>
+          </styles>
+          <element xsi:nil="true"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zSsJguIhEeuow9wEZOIavw" x="2034" y="808"/>
+        </children>
+        <styles xsi:type="notation:TitleStyle" xmi:id="_PfvEhdNwEeuZatygrm-7Lg"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PfvEhtNwEeuZatygrm-7Lg"/>
+      </children>
+      <element href="Smart%20Cities%20Underwater.uml#_PfvEgNNwEeuZatygrm-7Lg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_PfvEgtNwEeuZatygrm-7Lg" x="-100" y="-180" width="2201" height="1321"/>
+    </children>
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_omCQAdNvEeuZatygrm-7Lg" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_omCQAtNvEeuZatygrm-7Lg"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_omCQA9NvEeuZatygrm-7Lg" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+      <owner href="Smart%20Cities%20Underwater.uml#_oM3iENNvEeuZatygrm-7Lg"/>
+    </styles>
+    <element href="Smart%20Cities%20Underwater.uml#_oM3iENNvEeuZatygrm-7Lg"/>
+    <edges xsi:type="notation:Connector" xmi:id="_q0-TENQ7EeunyfVQIIvjpg" type="Association_Edge" source="_mmb6UNNwEeuZatygrm-7Lg" target="_zXfyANNwEeuZatygrm-7Lg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_q0-6INQ7EeunyfVQIIvjpg" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_uIZysNQ7EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_q0-6IdQ7EeunyfVQIIvjpg" y="-20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_q0-6ItQ7EeunyfVQIIvjpg" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_uI9zYNQ7EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_q0-6I9Q7EeunyfVQIIvjpg" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_q0-6JNQ7EeunyfVQIIvjpg" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_uJewwNQ7EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_q0-6JdQ7EeunyfVQIIvjpg" x="91" y="-10"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_q0-6JtQ7EeunyfVQIIvjpg" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_uKI4ENQ7EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_q0-6J9Q7EeunyfVQIIvjpg" x="-30" y="44"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_q0-6KNQ7EeunyfVQIIvjpg" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_uKs4wNQ7EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_q0-6KdQ7EeunyfVQIIvjpg" x="32" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_q0-6KtQ7EeunyfVQIIvjpg" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_uLRggNQ7EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_q0-6K9Q7EeunyfVQIIvjpg" x="-32" y="-20"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_q0-TEdQ7EeunyfVQIIvjpg"/>
+      <element href="Smart%20Cities%20Underwater.uml#_qz5VANQ7EeunyfVQIIvjpg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_q0-TEtQ7EeunyfVQIIvjpg" points="[300, -60, -643984, -643984]$[620, -60, -643984, -643984]$[620, 20, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_q26z0NQ7EeunyfVQIIvjpg" id="(1.0,0.27149321266968324)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_q26z0dQ7EeunyfVQIIvjpg" id="(0.45248868778280543,0.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_0jaR0NQ8EeunyfVQIIvjpg" type="Association_Edge" source="_zXfyANNwEeuZatygrm-7Lg" target="_N6yDcNNxEeuZatygrm-7Lg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_0ja44NQ8EeunyfVQIIvjpg" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_mdzhINsjEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_0ja44dQ8EeunyfVQIIvjpg" y="-20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_0ja44tQ8EeunyfVQIIvjpg" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_me8woNsjEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_0ja449Q8EeunyfVQIIvjpg" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_0ja45NQ8EeunyfVQIIvjpg" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_mgK4oNsjEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_0ja45dQ8EeunyfVQIIvjpg" x="35" y="-36"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_0ja45tQ8EeunyfVQIIvjpg" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_mhKXINsjEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_0ja459Q8EeunyfVQIIvjpg" x="-15" y="49"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_0ja46NQ8EeunyfVQIIvjpg" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_miAEoNsjEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_0ja46dQ8EeunyfVQIIvjpg" x="20" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_0ja46tQ8EeunyfVQIIvjpg" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_mjJUINsjEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_0ja469Q8EeunyfVQIIvjpg" x="-20" y="-20"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_0jaR0dQ8EeunyfVQIIvjpg"/>
+      <element href="Smart%20Cities%20Underwater.uml#_0i-M8NQ8EeunyfVQIIvjpg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_0jaR0tQ8EeunyfVQIIvjpg" points="[620, 180, -643984, -643984]$[620, 280, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_0k0AANQ8EeunyfVQIIvjpg" id="(0.45248868778280543,1.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_0k0AAdQ8EeunyfVQIIvjpg" id="(0.4975124378109453,0.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_lLIDwNQ9EeunyfVQIIvjpg" type="Association_Edge" source="_zXfyANNwEeuZatygrm-7Lg" target="_JxD1ANNxEeuZatygrm-7Lg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_lLIq0tQ9EeunyfVQIIvjpg" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_m0Ry4NQ9EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_lLIq09Q9EeunyfVQIIvjpg" y="-20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_lLIq1NQ9EeunyfVQIIvjpg" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_m09IUNQ9EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_lLIq1dQ9EeunyfVQIIvjpg" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_lLIq1tQ9EeunyfVQIIvjpg" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_m1kzYNQ9EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_lLIq19Q9EeunyfVQIIvjpg" x="43" y="-10"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_lLIq2NQ9EeunyfVQIIvjpg" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_m2icsNQ9EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_lLIq2dQ9EeunyfVQIIvjpg" x="-51" y="30"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_lLIq2tQ9EeunyfVQIIvjpg" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_m3e34NQ9EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_lLIq29Q9EeunyfVQIIvjpg" x="28" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_lLIq3NQ9EeunyfVQIIvjpg" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_m4Ps4NQ9EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_lLIq3dQ9EeunyfVQIIvjpg" x="-28" y="-20"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_lLIq0NQ9EeunyfVQIIvjpg"/>
+      <element href="Smart%20Cities%20Underwater.uml#_lKl4QNQ9EeunyfVQIIvjpg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_lLIq0dQ9EeunyfVQIIvjpg" points="[720, 120, -643984, -643984]$[860, 120, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_lMKlkNQ9EeunyfVQIIvjpg" id="(1.0,0.425531914893617)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_lMKlkdQ9EeunyfVQIIvjpg" id="(0.0,0.39603960396039606)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_gzeRkNQ-EeunyfVQIIvjpg" type="Association_Edge" source="_l53SwNNxEeuZatygrm-7Lg" target="_JxD1ANNxEeuZatygrm-7Lg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_gzeRk9Q-EeunyfVQIIvjpg" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_jKE8kNQ-EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_gzeRlNQ-EeunyfVQIIvjpg" y="-20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_gzeRldQ-EeunyfVQIIvjpg" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_jKnvINQ-EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_gzeRltQ-EeunyfVQIIvjpg" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_gzeRl9Q-EeunyfVQIIvjpg" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_jLPaMNQ-EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_gzeRmNQ-EeunyfVQIIvjpg" x="69" y="30"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_gzeRmdQ-EeunyfVQIIvjpg" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_jL13INQ-EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_gzeRmtQ-EeunyfVQIIvjpg" x="-69" y="10"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_gzeRm9Q-EeunyfVQIIvjpg" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_jMae4NQ-EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_gzeRnNQ-EeunyfVQIIvjpg" x="32" y="-30"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_gzeRndQ-EeunyfVQIIvjpg" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_jNpN8NQ-EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_gzeRntQ-EeunyfVQIIvjpg" x="-20" y="-20"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_gzeRkdQ-EeunyfVQIIvjpg"/>
+      <element href="Smart%20Cities%20Underwater.uml#_gyxuANQ-EeunyfVQIIvjpg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_gzeRktQ-EeunyfVQIIvjpg" points="[1200, 600, -643984, -643984]$[1260, 600, -643984, -643984]$[1260, 60, -643984, -643984]$[1100, 60, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_g1C-4NQ-EeunyfVQIIvjpg" id="(1.0,0.5833333333333334)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_g1C-4dQ-EeunyfVQIIvjpg" id="(1.0,0.39603960396039606)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_iRDp4NQ-EeunyfVQIIvjpg" type="Association_Edge" source="_l53SwNNxEeuZatygrm-7Lg" target="_N6yDcNNxEeuZatygrm-7Lg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_iREQ8NQ-EeunyfVQIIvjpg" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_jsZmgNQ-EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_iREQ8dQ-EeunyfVQIIvjpg" y="-20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_iREQ8tQ-EeunyfVQIIvjpg" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_js3gkNQ-EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_iREQ89Q-EeunyfVQIIvjpg" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_iREQ9NQ-EeunyfVQIIvjpg" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_jtucMNQ-EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_iREQ9dQ-EeunyfVQIIvjpg" x="71" y="-30"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_iREQ9tQ-EeunyfVQIIvjpg" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_juNkYNQ-EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_iREQ99Q-EeunyfVQIIvjpg" x="-51" y="30"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_iREQ-NQ-EeunyfVQIIvjpg" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_ju3EoNQ-EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_iREQ-dQ-EeunyfVQIIvjpg" x="28" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_iREQ-tQ-EeunyfVQIIvjpg" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_jvZ3MNQ-EeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_iREQ-9Q-EeunyfVQIIvjpg" x="-28" y="-20"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_iRDp4dQ-EeunyfVQIIvjpg"/>
+      <element href="Smart%20Cities%20Underwater.uml#_iQcl4NQ-EeunyfVQIIvjpg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_iRDp4tQ-EeunyfVQIIvjpg" points="[940, 640, -643984, -643984]$[840, 640, -643984, -643984]$[840, 380, -643984, -643984]$[720, 380, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_iSZtsNQ-EeunyfVQIIvjpg" id="(0.0,0.75)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_iSZtsdQ-EeunyfVQIIvjpg" id="(1.0,0.594059405940594)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_dBrE0NRHEeunyfVQIIvjpg" type="Association_Edge" source="_ZE810NNxEeuZatygrm-7Lg" target="_l53SwNNxEeuZatygrm-7Lg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_dBrE09RHEeunyfVQIIvjpg" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_5udjYNssEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_dBrE1NRHEeunyfVQIIvjpg" y="-20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_dBrE1dRHEeunyfVQIIvjpg" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_5vwj4NssEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_dBrE1tRHEeunyfVQIIvjpg" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_dBrE19RHEeunyfVQIIvjpg" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_5wjOENssEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_dBrE2NRHEeunyfVQIIvjpg" x="17" y="-65"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_dBrE2dRHEeunyfVQIIvjpg" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_5xXtcNssEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_dBrE2tRHEeunyfVQIIvjpg" x="-17" y="101"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_dBrE29RHEeunyfVQIIvjpg" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_5yRFUNssEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_dBrE3NRHEeunyfVQIIvjpg" x="28" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_dBv9UNRHEeunyfVQIIvjpg" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_5zB6UNssEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_dBv9UdRHEeunyfVQIIvjpg" x="-28" y="-20"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_dBrE0dRHEeunyfVQIIvjpg"/>
+      <element href="Smart%20Cities%20Underwater.uml#_dAwe0NRHEeunyfVQIIvjpg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_dBrE0tRHEeunyfVQIIvjpg" points="[1000, 660, -643984, -643984]$[1000, 800, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_dDu6UNRHEeunyfVQIIvjpg" id="(0.4975124378109453,1.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_dDu6UdRHEeunyfVQIIvjpg" id="(0.38461538461538464,0.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_2rNDwNRHEeunyfVQIIvjpg" type="Association_Edge" source="_l53SwNNxEeuZatygrm-7Lg" target="_3xYG4NNxEeuZatygrm-7Lg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_2rNDw9RHEeunyfVQIIvjpg" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_3WvUENRHEeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_2rNDxNRHEeunyfVQIIvjpg" y="-19"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_2rNDxdRHEeunyfVQIIvjpg" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_3XbQkNRHEeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_2rNDxtRHEeunyfVQIIvjpg" x="-1" y="18"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_2rR8QNRHEeunyfVQIIvjpg" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_3YHNENRHEeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_2rR8QdRHEeunyfVQIIvjpg" x="30" y="101"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_2rR8QtRHEeunyfVQIIvjpg" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_3YuRENRHEeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_2rR8Q9RHEeunyfVQIIvjpg" x="-30" y="79"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_2rR8RNRHEeunyfVQIIvjpg" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_3ZVVENRHEeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_2rR8RdRHEeunyfVQIIvjpg" x="30" y="-26"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_2rR8RtRHEeunyfVQIIvjpg" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_3Z8ZENRHEeunyfVQIIvjpg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_2rR8R9RHEeunyfVQIIvjpg" x="-30" y="-27"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_2rNDwdRHEeunyfVQIIvjpg"/>
+      <element href="Smart%20Cities%20Underwater.uml#_2qq4QNRHEeunyfVQIIvjpg"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_2rNDwtRHEeunyfVQIIvjpg" points="[1080, 680, -643984, -643984]$[1080, 940, -643984, -643984]$[940, 940, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_2sutwNRHEeunyfVQIIvjpg" id="(0.5384615384615384,1.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_2sutwdRHEeunyfVQIIvjpg" id="(1.0,0.5)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_PLnCcNsiEeuN-rQx2yUVow" type="Association_Edge" source="_3xYG4NNxEeuZatygrm-7Lg" target="_-TbMoNQ3EeunyfVQIIvjpg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_PLwzcNsiEeuN-rQx2yUVow" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_50pq8NssEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_PLwzcdsiEeuN-rQx2yUVow" y="-20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_PLwzctsiEeuN-rQx2yUVow" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_51n7UNssEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_PLwzc9siEeuN-rQx2yUVow" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_PLwzdNsiEeuN-rQx2yUVow" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_52hTMNssEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_PLwzddsiEeuN-rQx2yUVow" x="81" y="-30"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_PLwzdtsiEeuN-rQx2yUVow" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_53YO0NssEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_PLwzd9siEeuN-rQx2yUVow" x="-30" y="68"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_PLwzeNsiEeuN-rQx2yUVow" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_54PKcNssEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_PLwzedsiEeuN-rQx2yUVow" x="28" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_PLwzetsiEeuN-rQx2yUVow" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_54_YYNssEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_PLwze9siEeuN-rQx2yUVow" x="-28" y="-20"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_PLnCcdsiEeuN-rQx2yUVow"/>
+      <element href="Smart%20Cities%20Underwater.uml#_O9ixQNsiEeuN-rQx2yUVow"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_PLnCctsiEeuN-rQx2yUVow" points="[760, 960, -643984, -643984]$[660, 960, -643984, -643984]$[660, 660, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PQCPcNsiEeuN-rQx2yUVow" id="(0.0,0.6666666666666666)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PQCPcdsiEeuN-rQx2yUVow" id="(0.5454545454545454,1.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_q7PVwNsjEeuN-rQx2yUVow" type="Association_Edge" source="_lF47QNQ5EeunyfVQIIvjpg" target="_zXfyANNwEeuZatygrm-7Lg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_q7PVw9sjEeuN-rQx2yUVow" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_sZIQENsjEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_q7PVxNsjEeuN-rQx2yUVow" x="1" y="-18"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_q7PVxdsjEeuN-rQx2yUVow" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_sZ99kNsjEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_q7PVxtsjEeuN-rQx2yUVow" x="-1" y="19"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_q7PVx9sjEeuN-rQx2yUVow" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_sap6ENsjEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_q7PVyNsjEeuN-rQx2yUVow" x="30" y="-72"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_q7PVydsjEeuN-rQx2yUVow" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_sbkgENsjEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_q7PVytsjEeuN-rQx2yUVow" x="-30" y="-44"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_q7PVy9sjEeuN-rQx2yUVow" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_scfGENsjEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_q7PVzNsjEeuN-rQx2yUVow" x="30" y="26"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_q7PVzdsjEeuN-rQx2yUVow" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_sdLCkNsjEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_q7PVztsjEeuN-rQx2yUVow" x="-30" y="13"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_q7PVwdsjEeuN-rQx2yUVow"/>
+      <element href="Smart%20Cities%20Underwater.uml#_q6GGQNsjEeuN-rQx2yUVow"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_q7PVwtsjEeuN-rQx2yUVow" points="[360, 420, -643984, -643984]$[360, 260, -643984, -643984]$[540, 260, -643984, -643984]$[540, 140, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_q9h0wNsjEeuN-rQx2yUVow" id="(0.5555555555555556,0.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_q9h0wdsjEeuN-rQx2yUVow" id="(0.09049773755656108,1.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_ADGKMNstEeuN-rQx2yUVow" type="Association_Edge" source="_zXfyANNwEeuZatygrm-7Lg" target="_OV1gUNQ4EeunyfVQIIvjpg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_ADGxQtstEeuN-rQx2yUVow" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_BYDyANstEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ADGxQ9stEeuN-rQx2yUVow" y="-19"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_ADGxRNstEeuN-rQx2yUVow" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_BY6toNstEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ADGxRdstEeuN-rQx2yUVow" x="-1" y="18"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_ADGxRtstEeuN-rQx2yUVow" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_BZt-4NstEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ADGxR9stEeuN-rQx2yUVow" x="44" y="10"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_ADGxSNstEeuN-rQx2yUVow" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_BagCANstEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ADGxSdstEeuN-rQx2yUVow" x="-30" y="58"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_ADHYUNstEeuN-rQx2yUVow" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_BbfggNstEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ADHYUdstEeuN-rQx2yUVow" x="34" y="-30"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_ADHYUtstEeuN-rQx2yUVow" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_BciCUNstEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ADHYU9stEeuN-rQx2yUVow" x="-30" y="-33"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_ADGxQNstEeuN-rQx2yUVow"/>
+      <element href="Smart%20Cities%20Underwater.uml#_ACV8QNstEeuN-rQx2yUVow"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_ADGxQdstEeuN-rQx2yUVow" points="[520, 80, -643984, -643984]$[380, 80, -643984, -643984]$[380, 180, -643984, -643984]$[60, 180, -643984, -643984]$[60, 280, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_AE3EwNstEeuN-rQx2yUVow" id="(0.0,0.5673758865248227)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_AE3EwdstEeuN-rQx2yUVow" id="(0.5454545454545454,0.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_PhB30NstEeuN-rQx2yUVow" type="Association_Edge" source="_OV1gUNQ4EeunyfVQIIvjpg" target="_SbH6sNQ4EeunyfVQIIvjpg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_PhCe4NstEeuN-rQx2yUVow" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_yDvd8NstEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_PhCe4dstEeuN-rQx2yUVow" y="-20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_PhCe4tstEeuN-rQx2yUVow" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_yEj9UNstEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_PhCe49stEeuN-rQx2yUVow" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_PhCe5NstEeuN-rQx2yUVow" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_yFoUUNstEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_PhCe5dstEeuN-rQx2yUVow" x="14" y="-62"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_PhCe5tstEeuN-rQx2yUVow" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_yGl9oNstEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_PhCe59stEeuN-rQx2yUVow" x="-14" y="70"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_PhCe6NstEeuN-rQx2yUVow" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_yHc5QNstEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_PhCe6dstEeuN-rQx2yUVow" x="16" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_PhCe6tstEeuN-rQx2yUVow" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_yIO8YNstEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_PhCe69stEeuN-rQx2yUVow" x="-16" y="-20"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_PhB30dstEeuN-rQx2yUVow"/>
+      <element href="Smart%20Cities%20Underwater.uml#_PgS4ANstEeuN-rQx2yUVow"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_PhB30tstEeuN-rQx2yUVow" points="[200, 400, -643984, -643984]$[200, 480, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PidbMNstEeuN-rQx2yUVow" id="(0.45454545454545453,1.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_PidbMdstEeuN-rQx2yUVow" id="(0.45454545454545453,0.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_umAy0NstEeuN-rQx2yUVow" type="Association_Edge" source="_-TbMoNQ3EeunyfVQIIvjpg" target="_lF47QNQ5EeunyfVQIIvjpg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_umBZ4NstEeuN-rQx2yUVow" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_vKjDQNstEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_umBZ4dstEeuN-rQx2yUVow" y="-18"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_umBZ4tstEeuN-rQx2yUVow" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_vLNxoNstEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_umBZ49stEeuN-rQx2yUVow" x="1" y="18"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_umBZ5NstEeuN-rQx2yUVow" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_vMEGMNstEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_umBZ5dstEeuN-rQx2yUVow" x="30" y="68"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_umBZ5tstEeuN-rQx2yUVow" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_vMrxQNstEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_umBZ59stEeuN-rQx2yUVow" x="-75" y="-10"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_umBZ6NstEeuN-rQx2yUVow" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_vNb_MNstEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_umBZ6dstEeuN-rQx2yUVow" x="30" y="-14"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_umBZ6tstEeuN-rQx2yUVow" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_vOTh4NstEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_umBZ69stEeuN-rQx2yUVow" x="-33" y="10"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_umAy0dstEeuN-rQx2yUVow"/>
+      <element href="Smart%20Cities%20Underwater.uml#_uk2VMNstEeuN-rQx2yUVow"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_umAy0tstEeuN-rQx2yUVow" points="[640, 560, -643984, -643984]$[640, 480, -643984, -643984]$[460, 480, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_uoGdgNstEeuN-rQx2yUVow" id="(0.45454545454545453,0.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_uoHEkNstEeuN-rQx2yUVow" id="(1.0,0.375)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_6fYYENsuEeuN-rQx2yUVow" type="Association_Edge" source="_SbH6sNQ4EeunyfVQIIvjpg" target="_7G-pUNQ4EeunyfVQIIvjpg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_6fYYE9suEeuN-rQx2yUVow" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_67If8NsuEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_6fYYFNsuEeuN-rQx2yUVow" y="-20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_6fY_INsuEeuN-rQx2yUVow" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_67zOUNsuEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_6fY_IdsuEeuN-rQx2yUVow" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_6fY_ItsuEeuN-rQx2yUVow" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_68d8sNsuEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_6fY_I9suEeuN-rQx2yUVow" x="30" y="-50"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_6fY_JNsuEeuN-rQx2yUVow" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_69DykNsuEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_6fY_JdsuEeuN-rQx2yUVow" x="-56" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_6fY_JtsuEeuN-rQx2yUVow" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_69nMMNsuEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_6fY_J9suEeuN-rQx2yUVow" x="30" y="14"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_6fY_KNsuEeuN-rQx2yUVow" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_6-hLINsuEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_6fY_KdsuEeuN-rQx2yUVow" x="-56" y="-20"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_6fYYEdsuEeuN-rQx2yUVow"/>
+      <element href="Smart%20Cities%20Underwater.uml#_6eJpANsuEeuN-rQx2yUVow"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_6fYYEtsuEeuN-rQx2yUVow" points="[60, 660, -643984, -643984]$[60, 960, -643984, -643984]$[220, 960, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_6g6pINsuEeuN-rQx2yUVow" id="(0.5454545454545454,1.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_6g6pIdsuEeuN-rQx2yUVow" id="(0.0,0.4)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_8ni-cNsuEeuN-rQx2yUVow" type="Association_Edge" source="_7G-pUNQ4EeunyfVQIIvjpg" target="_-TbMoNQ3EeunyfVQIIvjpg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_8ni-c9suEeuN-rQx2yUVow" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_9abz8NsuEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_8ni-dNsuEeuN-rQx2yUVow" y="-20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_8ni-ddsuEeuN-rQx2yUVow" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_9bEGENsuEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_8ni-dtsuEeuN-rQx2yUVow" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_8ni-d9suEeuN-rQx2yUVow" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_9b0UANsuEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_8ni-eNsuEeuN-rQx2yUVow" x="30" y="46"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_8ni-edsuEeuN-rQx2yUVow" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_9cfpcNsuEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_8ni-etsuEeuN-rQx2yUVow" x="-64" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_8ni-e9suEeuN-rQx2yUVow" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_9dLl8NsuEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_8ni-fNsuEeuN-rQx2yUVow" x="30" y="-14"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_8ni-fdsuEeuN-rQx2yUVow" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_9d2UUNsuEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_8ni-ftsuEeuN-rQx2yUVow" x="-64" y="-20"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_8ni-cdsuEeuN-rQx2yUVow"/>
+      <element href="Smart%20Cities%20Underwater.uml#_8mdZUNsuEeuN-rQx2yUVow"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_8ni-ctsuEeuN-rQx2yUVow" points="[320, 920, -643984, -643984]$[320, 680, -643984, -643984]$[540, 680, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_8pmM4NsuEeuN-rQx2yUVow" id="(0.5,0.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_8pmz8NsuEeuN-rQx2yUVow" id="(0.0,0.375)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_dg-SkNsvEeuN-rQx2yUVow" type="Association_Edge" source="_-TbMoNQ3EeunyfVQIIvjpg" target="_DdtqwNQ5EeunyfVQIIvjpg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_dg-Sk9svEeuN-rQx2yUVow" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_evZ0kNsvEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_dg-SlNsvEeuN-rQx2yUVow" x="1" y="-18"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_dg-SldsvEeuN-rQx2yUVow" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_ewCtwNsvEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_dg-SltsvEeuN-rQx2yUVow" x="-1" y="19"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_dg-Sl9svEeuN-rQx2yUVow" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_ew5CUNsvEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_dg-SmNsvEeuN-rQx2yUVow" x="30" y="52"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_dg-SmdsvEeuN-rQx2yUVow" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_exoCINsvEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_dg-5oNsvEeuN-rQx2yUVow" x="-40" y="30"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_dg-5odsvEeuN-rQx2yUVow" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_eyY3INsvEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_dg-5otsvEeuN-rQx2yUVow" x="30" y="-6"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_dg-5o9svEeuN-rQx2yUVow" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_ey3_UNsvEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_dg-5pNsvEeuN-rQx2yUVow" x="-47" y="-30"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_dg-SkdsvEeuN-rQx2yUVow"/>
+      <element href="Smart%20Cities%20Underwater.uml#_dgcHENsvEeuN-rQx2yUVow"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_dg-SktsvEeuN-rQx2yUVow" points="[600, 780, -643984, -643984]$[560, 1100, -643984, -643984]$[1300, 1100, -643984, -643984]$[1300, 980, -643984, -643984]$[1400, 980, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_diriwNsvEeuN-rQx2yUVow" id="(0.09090909090909091,1.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_diriwdsvEeuN-rQx2yUVow" id="(0.0,0.42857142857142855)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_NDvOoNswEeuN-rQx2yUVow" type="Association_Edge" source="_DdtqwNQ5EeunyfVQIIvjpg" target="_u7S6INQ5EeunyfVQIIvjpg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_NDv1sNswEeuN-rQx2yUVow" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_YdeRkNsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_NDv1sdswEeuN-rQx2yUVow" y="-20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_NDv1stswEeuN-rQx2yUVow" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_YeKOENsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_NDv1s9swEeuN-rQx2yUVow" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_NDv1tNswEeuN-rQx2yUVow" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_YesZkNsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_NDv1tdswEeuN-rQx2yUVow" x="17" y="-40"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_NDv1ttswEeuN-rQx2yUVow" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_YfN-ANsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_NDwcwNswEeuN-rQx2yUVow" x="-37" y="-89"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_NDwcwdswEeuN-rQx2yUVow" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_YgDEcNsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_NDwcwtswEeuN-rQx2yUVow" x="17" y="26"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_NDwcw9swEeuN-rQx2yUVow" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_YgwPENsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_NDwcxNswEeuN-rQx2yUVow" x="-37" y="32"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_NDvOodswEeuN-rQx2yUVow"/>
+      <element href="Smart%20Cities%20Underwater.uml#_NDKm4NswEeuN-rQx2yUVow"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_NDvOotswEeuN-rQx2yUVow" points="[1500, 920, -643984, -643984]$[1480, 780, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_NFaCkNswEeuN-rQx2yUVow" id="(0.45454545454545453,0.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_NFaCkdswEeuN-rQx2yUVow" id="(0.5,1.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_H7K84NsxEeuN-rQx2yUVow" type="Association_Edge" source="_u7S6INQ5EeunyfVQIIvjpg" target="_7IM74NQ5EeunyfVQIIvjpg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_H7Lj8NsxEeuN-rQx2yUVow" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_YiYmwNsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_H7Lj8dsxEeuN-rQx2yUVow" y="-20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_H7Lj8tsxEeuN-rQx2yUVow" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_YjbvoNsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_H7Lj89sxEeuN-rQx2yUVow" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_H7Lj9NsxEeuN-rQx2yUVow" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_Yj-iMNsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_H7Lj9dsxEeuN-rQx2yUVow" x="30" y="91"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_H7Lj9tsxEeuN-rQx2yUVow" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_YkgGoNsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_H7Lj99sxEeuN-rQx2yUVow" x="-37" y="21"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_H7Lj-NsxEeuN-rQx2yUVow" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_YlBrENsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_H7Lj-dsxEeuN-rQx2yUVow" x="30" y="-14"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_H7Lj-tsxEeuN-rQx2yUVow" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_YlryYNsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_H7Lj-9sxEeuN-rQx2yUVow" x="-37" y="-28"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_H7K84dsxEeuN-rQx2yUVow"/>
+      <element href="Smart%20Cities%20Underwater.uml#_H6njQNsxEeuN-rQx2yUVow"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_H7K84tsxEeuN-rQx2yUVow" points="[1480, 660, -643984, -643984]$[1480, 520, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_H8xfYNsxEeuN-rQx2yUVow" id="(0.4166666666666667,0.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_H8xfYdsxEeuN-rQx2yUVow" id="(0.4444444444444444,1.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_eXdjwNsxEeuN-rQx2yUVow" type="Association_Edge" source="_7IM74NQ5EeunyfVQIIvjpg" target="_IOvUUNQ6EeunyfVQIIvjpg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_eXeK0NsxEeuN-rQx2yUVow" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_fKLaINsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_eXeK0dsxEeuN-rQx2yUVow" x="1" y="-18"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_eXeK0tsxEeuN-rQx2yUVow" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_fK7BANsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_eXeK09sxEeuN-rQx2yUVow" y="18"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_eXeK1NsxEeuN-rQx2yUVow" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_fLZiINsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_eXeK1dsxEeuN-rQx2yUVow" x="39" y="-10"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_eXeK1tsxEeuN-rQx2yUVow" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_fL5RYNsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_eXeK19sxEeuN-rQx2yUVow" x="-66" y="-30"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_eXeK2NsxEeuN-rQx2yUVow" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_fMegMNsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_eXeK2dsxEeuN-rQx2yUVow" x="34" y="10"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_eXeK2tsxEeuN-rQx2yUVow" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_fNOHENsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_eXeK29sxEeuN-rQx2yUVow" x="-27" y="30"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_eXdjwdsxEeuN-rQx2yUVow"/>
+      <element href="Smart%20Cities%20Underwater.uml#_eW48ANsxEeuN-rQx2yUVow"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_eXdjwtsxEeuN-rQx2yUVow" points="[1400, 460, -643984, -643984]$[1320, 460, -643984, -643984]$[1320, 220, -643984, -643984]$[1400, 220, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_eY5uMNsxEeuN-rQx2yUVow" id="(0.0,0.6)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_eY5uMdsxEeuN-rQx2yUVow" id="(0.0,0.4)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_mmHnQNsxEeuN-rQx2yUVow" type="Association_Edge" source="_7IM74NQ5EeunyfVQIIvjpg" target="_LyfH4NQ6EeunyfVQIIvjpg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_mmHnQ9sxEeuN-rQx2yUVow" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_2QSaENsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_mmHnRNsxEeuN-rQx2yUVow" y="-20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_mmHnRdsxEeuN-rQx2yUVow" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_2Q3o4NsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_mmHnRtsxEeuN-rQx2yUVow" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_mmHnR9sxEeuN-rQx2yUVow" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_2RYmQNsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_mmHnSNsxEeuN-rQx2yUVow" x="32" y="-20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_mmHnSdsxEeuN-rQx2yUVow" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_2R7Y0NsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_mmHnStsxEeuN-rQx2yUVow" x="-52" y="10"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_mmHnS9sxEeuN-rQx2yUVow" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_2SbvINsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_mmHnTNsxEeuN-rQx2yUVow" x="32" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_mmHnTdsxEeuN-rQx2yUVow" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_2S8FcNsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_mmHnTtsxEeuN-rQx2yUVow" x="-32" y="-20"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_mmHnQdsxEeuN-rQx2yUVow"/>
+      <element href="Smart%20Cities%20Underwater.uml#_mlXZUNsxEeuN-rQx2yUVow"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_mmHnQtsxEeuN-rQx2yUVow" points="[1580, 460, -643984, -643984]$[1740, 460, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_mnb14NsxEeuN-rQx2yUVow" id="(1.0,0.8)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_mnb14dsxEeuN-rQx2yUVow" id="(0.0,0.6)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_ua0SoNsxEeuN-rQx2yUVow" type="Association_Edge" source="_IOvUUNQ6EeunyfVQIIvjpg" target="_kMyTkNQ6EeunyfVQIIvjpg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_ua0So9sxEeuN-rQx2yUVow" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_vEycsNsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ua0SpNsxEeuN-rQx2yUVow" x="-1" y="-18"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_ua0SpdsxEeuN-rQx2yUVow" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_vFTaENsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ua0SptsxEeuN-rQx2yUVow" x="1" y="18"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_ua0Sp9sxEeuN-rQx2yUVow" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_vFzwYNsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ua0SqNsxEeuN-rQx2yUVow" x="30" y="74"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_ua0SqdsxEeuN-rQx2yUVow" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_vGhiENsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ua0SqtsxEeuN-rQx2yUVow" x="-30" y="67"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_ua0Sq9sxEeuN-rQx2yUVow" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_vHLCUNsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ua0SrNsxEeuN-rQx2yUVow" x="10" y="-14"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_ua0SrdsxEeuN-rQx2yUVow" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_vH1JoNsxEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_ua0SrtsxEeuN-rQx2yUVow" x="-30" y="-13"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_ua0SodsxEeuN-rQx2yUVow"/>
+      <element href="Smart%20Cities%20Underwater.uml#_uaRgENsxEeuN-rQx2yUVow"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_ua0SotsxEeuN-rQx2yUVow" points="[1480, 180, -643984, -643984]$[1480, 80, -643984, -643984]$[1820, 80, -643984, -643984]$[1820, 180, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_ucK9gNsxEeuN-rQx2yUVow" id="(0.375,0.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_ucK9gdsxEeuN-rQx2yUVow" id="(0.5555555555555556,0.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_6yuqgNsxEeuN-rQx2yUVow" type="Association_Edge" source="_LyfH4NQ6EeunyfVQIIvjpg" target="_kMyTkNQ6EeunyfVQIIvjpg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_6yvRkNsxEeuN-rQx2yUVow" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_Zu8HMNs2EeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_6yvRkdsxEeuN-rQx2yUVow" y="-20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_6yvRktsxEeuN-rQx2yUVow" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_Zvqf8Ns2EeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_6yvRk9sxEeuN-rQx2yUVow" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_6yvRlNsxEeuN-rQx2yUVow" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_ZwPuwNs2EeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_6yvRldsxEeuN-rQx2yUVow" x="15" y="-44"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_6yv4oNsxEeuN-rQx2yUVow" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_Zw_VoNs2EeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_6yv4odsxEeuN-rQx2yUVow" x="-15" y="53"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_6yv4otsxEeuN-rQx2yUVow" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_ZxlLgNs2EeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_6yv4o9sxEeuN-rQx2yUVow" x="20" y="20"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_6yv4pNsxEeuN-rQx2yUVow" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_ZyMPgNs2EeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_6yv4pdsxEeuN-rQx2yUVow" x="-15" y="-27"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_6yuqgdsxEeuN-rQx2yUVow"/>
+      <element href="Smart%20Cities%20Underwater.uml#_6x4V8NsxEeuN-rQx2yUVow"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_6yuqgtsxEeuN-rQx2yUVow" points="[1820, 420, -643984, -643984]$[1820, 320, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_61CXoNsxEeuN-rQx2yUVow" id="(0.4444444444444444,0.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_61CXodsxEeuN-rQx2yUVow" id="(0.5555555555555556,1.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_HJsAINsyEeuN-rQx2yUVow" type="Association_Edge" source="_kMyTkNQ6EeunyfVQIIvjpg" target="_1tRu0NQ6EeunyfVQIIvjpg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_HJsnMNsyEeuN-rQx2yUVow" type="Association_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_Ht1PANsyEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_HJsnMdsyEeuN-rQx2yUVow" x="-1" y="-18"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_HJsnMtsyEeuN-rQx2yUVow" type="Association_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_HuVlUNsyEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_HJsnM9syEeuN-rQx2yUVow" x="2" y="17"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_HJsnNNsyEeuN-rQx2yUVow" type="Association_TargetRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_HvFMMNsyEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_HJsnNdsyEeuN-rQx2yUVow" x="53" y="-30"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_HJsnNtsyEeuN-rQx2yUVow" type="Association_SourceRoleLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_Hv0MANsyEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_HJsnN9syEeuN-rQx2yUVow" x="-69" y="30"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_HJsnONsyEeuN-rQx2yUVow" type="Association_SourceMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_HwzqgNsyEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_HJsnOdsyEeuN-rQx2yUVow" x="26" y="30"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_HJsnOtsyEeuN-rQx2yUVow" type="Association_TargetMultiplicityLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_HxtCYNsyEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_HJsnO9syEeuN-rQx2yUVow" x="-73" y="-30"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_HJsAIdsyEeuN-rQx2yUVow"/>
+      <element href="Smart%20Cities%20Underwater.uml#_HJBRwNsyEeuN-rQx2yUVow"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_HJsAItsyEeuN-rQx2yUVow" points="[1900, 240, -643984, -643984]$[2020, 240, -643984, -643984]$[2020, 720, -643984, -643984]$[1900, 720, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_HK9LcNsyEeuN-rQx2yUVow" id="(1.0,0.6)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_HK9LcdsyEeuN-rQx2yUVow" id="(1.0,0.6)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_y_0eINtNEeuN-rQx2yUVow" type="Generalization_Edge" source="_u7S6INQ5EeunyfVQIIvjpg" target="_l53SwNNxEeuZatygrm-7Lg">
+      <children xsi:type="notation:DecorationNode" xmi:id="_y_0eI9tNEeuN-rQx2yUVow" type="Generalization_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_z5pCENtNEeuN-rQx2yUVow" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_y_0eJNtNEeuN-rQx2yUVow" x="-2" y="37"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_y_0eIdtNEeuN-rQx2yUVow"/>
+      <element href="Smart%20Cities%20Underwater.uml#_y_Lk8NtNEeuN-rQx2yUVow"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_y_0eIttNEeuN-rQx2yUVow" points="[1380, 740, -643984, -643984]$[1160, 740, -643984, -643984]$[1160, 700, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zBwX0NtNEeuN-rQx2yUVow" id="(0.0,0.6666666666666666)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zBwX0dtNEeuN-rQx2yUVow" id="(0.8461538461538461,1.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_zJMPQOIhEeuow9wEZOIavw" type="StereotypeCommentLink" source="_mmb6UNNwEeuZatygrm-7Lg" target="_zJHWwOIhEeuow9wEZOIavw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_zJMPQeIhEeuow9wEZOIavw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zJRHweIhEeuow9wEZOIavw" name="BASE_ELEMENT">
+        <eObjectValue href="Smart%20Cities%20Underwater.uml#_mmSJUNNwEeuZatygrm-7Lg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_zJMPQuIhEeuow9wEZOIavw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zJMPQ-IhEeuow9wEZOIavw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zJRHwOIhEeuow9wEZOIavw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_zKR0aeIhEeuow9wEZOIavw" type="StereotypeCommentLink" source="_zXfyANNwEeuZatygrm-7Lg" target="_zKR0ZeIhEeuow9wEZOIavw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_zKR0auIhEeuow9wEZOIavw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zKR0buIhEeuow9wEZOIavw" name="BASE_ELEMENT">
+        <eObjectValue href="Smart%20Cities%20Underwater.uml#_zXWBANNwEeuZatygrm-7Lg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_zKR0a-IhEeuow9wEZOIavw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zKR0bOIhEeuow9wEZOIavw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zKR0beIhEeuow9wEZOIavw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_zMDWBOIhEeuow9wEZOIavw" type="StereotypeCommentLink" source="_l53SwNNxEeuZatygrm-7Lg" target="_zMDWAOIhEeuow9wEZOIavw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_zMDWBeIhEeuow9wEZOIavw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zMDWCeIhEeuow9wEZOIavw" name="BASE_ELEMENT">
+        <eObjectValue href="Smart%20Cities%20Underwater.uml#_l5opQNNxEeuZatygrm-7Lg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_zMDWBuIhEeuow9wEZOIavw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zMDWB-IhEeuow9wEZOIavw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zMDWCOIhEeuow9wEZOIavw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_zNHtFeIhEeuow9wEZOIavw" type="StereotypeCommentLink" source="_-TbMoNQ3EeunyfVQIIvjpg" target="_zNHtEeIhEeuow9wEZOIavw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_zNHtFuIhEeuow9wEZOIavw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zNMlguIhEeuow9wEZOIavw" name="BASE_ELEMENT">
+        <eObjectValue href="Smart%20Cities%20Underwater.uml#_-SbHENQ3EeunyfVQIIvjpg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_zNHtF-IhEeuow9wEZOIavw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zNMlgOIhEeuow9wEZOIavw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zNMlgeIhEeuow9wEZOIavw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_zOkehOIhEeuow9wEZOIavw" type="StereotypeCommentLink" source="_DdtqwNQ5EeunyfVQIIvjpg" target="_zOkegOIhEeuow9wEZOIavw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_zOkeheIhEeuow9wEZOIavw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zOkeieIhEeuow9wEZOIavw" name="BASE_ELEMENT">
+        <eObjectValue href="Smart%20Cities%20Underwater.uml#_DdTbENQ5EeunyfVQIIvjpg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_zOkehuIhEeuow9wEZOIavw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zOkeh-IhEeuow9wEZOIavw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zOkeiOIhEeuow9wEZOIavw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_zPLigeIhEeuow9wEZOIavw" type="StereotypeCommentLink" source="_lF47QNQ5EeunyfVQIIvjpg" target="_zPBxgOIhEeuow9wEZOIavw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_zPLiguIhEeuow9wEZOIavw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zPQbAuIhEeuow9wEZOIavw" name="BASE_ELEMENT">
+        <eObjectValue href="Smart%20Cities%20Underwater.uml#_lFggwNQ5EeunyfVQIIvjpg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_zPLig-IhEeuow9wEZOIavw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zPQbAOIhEeuow9wEZOIavw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zPQbAeIhEeuow9wEZOIavw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_zRsrBOIhEeuow9wEZOIavw" type="StereotypeCommentLink" source="_IOvUUNQ6EeunyfVQIIvjpg" target="_zRsrAOIhEeuow9wEZOIavw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_zRsrBeIhEeuow9wEZOIavw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zRsrCeIhEeuow9wEZOIavw" name="BASE_ELEMENT">
+        <eObjectValue href="Smart%20Cities%20Underwater.uml#_IOYvANQ6EeunyfVQIIvjpg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_zRsrBuIhEeuow9wEZOIavw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zRsrB-IhEeuow9wEZOIavw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zRsrCOIhEeuow9wEZOIavw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_zSFFieIhEeuow9wEZOIavw" type="StereotypeCommentLink" source="_LyfH4NQ6EeunyfVQIIvjpg" target="_zSFFheIhEeuow9wEZOIavw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_zSFFiuIhEeuow9wEZOIavw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zSFFjuIhEeuow9wEZOIavw" name="BASE_ELEMENT">
+        <eObjectValue href="Smart%20Cities%20Underwater.uml#_LyH7gNQ6EeunyfVQIIvjpg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_zSFFi-IhEeuow9wEZOIavw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zSFFjOIhEeuow9wEZOIavw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zSFFjeIhEeuow9wEZOIavw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_zSsJhOIhEeuow9wEZOIavw" type="StereotypeCommentLink" source="_1tRu0NQ6EeunyfVQIIvjpg" target="_zSsJgOIhEeuow9wEZOIavw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_zSsJheIhEeuow9wEZOIavw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zSsJieIhEeuow9wEZOIavw" name="BASE_ELEMENT">
+        <eObjectValue href="Smart%20Cities%20Underwater.uml#_1s7wkNQ6EeunyfVQIIvjpg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_zSsJhuIhEeuow9wEZOIavw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zSsJh-IhEeuow9wEZOIavw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zSsJiOIhEeuow9wEZOIavw"/>
+    </edges>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_eMjb0NtTEeuN-rQx2yUVow" type="PapyrusUMLStateMachineDiagram" name="Identify Sink Node" measurementUnit="Pixel">
+    <children xsi:type="notation:Shape" xmi:id="_eMjb0dtTEeuN-rQx2yUVow" type="StateMachine_Shape">
+      <children xsi:type="notation:DecorationNode" xmi:id="_eMjb0ttTEeuN-rQx2yUVow" type="StateMachine_NameLabel">
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_eMjb09tTEeuN-rQx2yUVow" width="891" height="46"/>
+      </children>
+      <children xsi:type="notation:BasicCompartment" xmi:id="_eMjb1NtTEeuN-rQx2yUVow" type="StateMachine_RegionCompartment">
+        <children xsi:type="notation:Shape" xmi:id="_eMjb1dtTEeuN-rQx2yUVow" type="Region_Shape">
+          <eAnnotations xmi:id="_eMjb1ttTEeuN-rQx2yUVow" source="RegionAnnotationKey">
+            <details xmi:id="_eMjb19tTEeuN-rQx2yUVow" key="RegionZoneKey" value=""/>
+          </eAnnotations>
+          <children xsi:type="notation:BasicCompartment" xmi:id="_eMjb2NtTEeuN-rQx2yUVow" type="Region_SubvertexCompartment">
+            <children xsi:type="notation:Shape" xmi:id="_WQqb8NtWEeuMqPeQsAaIWw" type="Pseudostate_InitialShape">
+              <children xsi:type="notation:DecorationNode" xmi:id="_WQrDANtWEeuMqPeQsAaIWw" type="Pseudostate_InitialFloatingNameLabel">
+                <layoutConstraint xsi:type="notation:Location" xmi:id="_WQrDAdtWEeuMqPeQsAaIWw" x="-40" y="20"/>
+              </children>
+              <children xsi:type="notation:DecorationNode" xmi:id="_WQrDAttWEeuMqPeQsAaIWw" type="Pseudostate_InitialStereotypeLabel">
+                <layoutConstraint xsi:type="notation:Location" xmi:id="_WQrDA9tWEeuMqPeQsAaIWw" x="25" y="-10"/>
+              </children>
+              <element href="Smart%20Cities%20Underwater.uml#_WQh5ENtWEeuMqPeQsAaIWw"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_WQqb8dtWEeuMqPeQsAaIWw" x="69" y="65" width="21" height="21"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_blwRUNtWEeuMqPeQsAaIWw" type="State_Shape">
+              <children xsi:type="notation:DecorationNode" xmi:id="_blwRUttWEeuMqPeQsAaIWw" type="State_NameLabel">
+                <layoutConstraint xsi:type="notation:Bounds" xmi:id="_hsCBINtYEeuMqPeQsAaIWw" width="161"/>
+              </children>
+              <children xsi:type="notation:DecorationNode" xmi:id="_blwRU9tWEeuMqPeQsAaIWw" type="State_FloatingNameLabel">
+                <layoutConstraint xsi:type="notation:Location" xmi:id="_blwRVNtWEeuMqPeQsAaIWw" x="40"/>
+              </children>
+              <children xsi:type="notation:BasicCompartment" xmi:id="_blwRVdtWEeuMqPeQsAaIWw" type="State_RegionCompartment">
+                <layoutConstraint xsi:type="notation:Bounds" xmi:id="_blwRVttWEeuMqPeQsAaIWw" y="-1" width="161"/>
+              </children>
+              <element href="Smart%20Cities%20Underwater.uml#_blnucNtWEeuMqPeQsAaIWw"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_blwRUdtWEeuMqPeQsAaIWw" x="329" y="45" width="161" height="61"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_klpSkNtYEeuMqPeQsAaIWw" type="Pseudostate_ChoiceShape">
+              <children xsi:type="notation:DecorationNode" xmi:id="_klpSkttYEeuMqPeQsAaIWw" type="Pseudostate_ChoiceFloatingNameLabel">
+                <layoutConstraint xsi:type="notation:Location" xmi:id="_klpSk9tYEeuMqPeQsAaIWw" x="-40" y="-40"/>
+              </children>
+              <children xsi:type="notation:DecorationNode" xmi:id="_klpSlNtYEeuMqPeQsAaIWw" type="Pseudostate_ChoiceStereotypeLabel">
+                <layoutConstraint xsi:type="notation:Location" xmi:id="_klpSldtYEeuMqPeQsAaIWw" x="25" y="-10"/>
+              </children>
+              <element href="Smart%20Cities%20Underwater.uml#_klgvsNtYEeuMqPeQsAaIWw"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_klpSkdtYEeuMqPeQsAaIWw" x="369" y="185" width="81" height="41"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_4Dr_oNtYEeuMqPeQsAaIWw" type="State_Shape">
+              <children xsi:type="notation:DecorationNode" xmi:id="_4DsmsNtYEeuMqPeQsAaIWw" type="State_NameLabel">
+                <layoutConstraint xsi:type="notation:Bounds" xmi:id="_6TXjQNtYEeuMqPeQsAaIWw" width="201"/>
+              </children>
+              <children xsi:type="notation:DecorationNode" xmi:id="_4DsmsdtYEeuMqPeQsAaIWw" type="State_FloatingNameLabel">
+                <layoutConstraint xsi:type="notation:Location" xmi:id="_4DsmsttYEeuMqPeQsAaIWw" x="40"/>
+              </children>
+              <children xsi:type="notation:BasicCompartment" xmi:id="_4Dsms9tYEeuMqPeQsAaIWw" type="State_RegionCompartment">
+                <layoutConstraint xsi:type="notation:Bounds" xmi:id="_4DsmtNtYEeuMqPeQsAaIWw" y="-1" width="201"/>
+              </children>
+              <element href="Smart%20Cities%20Underwater.uml#_4Dd9MNtYEeuMqPeQsAaIWw"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_4Dr_odtYEeuMqPeQsAaIWw" x="129" y="325" width="201" height="81"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_8-jXINtYEeuMqPeQsAaIWw" type="State_Shape">
+              <children xsi:type="notation:DecorationNode" xmi:id="_8-jXIttYEeuMqPeQsAaIWw" type="State_NameLabel">
+                <layoutConstraint xsi:type="notation:Bounds" xmi:id="_DTWWANtZEeuMqPeQsAaIWw" width="181"/>
+              </children>
+              <children xsi:type="notation:DecorationNode" xmi:id="_8-j-MNtYEeuMqPeQsAaIWw" type="State_FloatingNameLabel">
+                <layoutConstraint xsi:type="notation:Location" xmi:id="_8-j-MdtYEeuMqPeQsAaIWw" x="40"/>
+              </children>
+              <children xsi:type="notation:BasicCompartment" xmi:id="_8-j-MttYEeuMqPeQsAaIWw" type="State_RegionCompartment">
+                <layoutConstraint xsi:type="notation:Bounds" xmi:id="_8-j-M9tYEeuMqPeQsAaIWw" y="-1" width="181"/>
+              </children>
+              <element href="Smart%20Cities%20Underwater.uml#_8-Xw8NtYEeuMqPeQsAaIWw"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_8-jXIdtYEeuMqPeQsAaIWw" x="569" y="325" width="181" height="81"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_n04ZQNtZEeuMqPeQsAaIWw" type="FinalState_Shape">
+              <children xsi:type="notation:DecorationNode" xmi:id="_n04ZQttZEeuMqPeQsAaIWw" type="FinalState_FloatingNameLabel">
+                <layoutConstraint xsi:type="notation:Location" xmi:id="_n05AUNtZEeuMqPeQsAaIWw" x="-20" y="39"/>
+              </children>
+              <children xsi:type="notation:DecorationNode" xmi:id="_n05AUdtZEeuMqPeQsAaIWw" type="FinalState_StereotypeLabel">
+                <layoutConstraint xsi:type="notation:Location" xmi:id="_n05AUttZEeuMqPeQsAaIWw" x="25" y="-10"/>
+              </children>
+              <element href="Smart%20Cities%20Underwater.uml#_n0ibANtZEeuMqPeQsAaIWw"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_n04ZQdtZEeuMqPeQsAaIWw" x="809" y="345" width="21" height="41"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_0A7IgOIhEeuow9wEZOIavw" type="StereotypeComment">
+              <styles xsi:type="notation:TitleStyle" xmi:id="_0A7IgeIhEeuow9wEZOIavw"/>
+              <styles xsi:type="notation:EObjectValueStyle" xmi:id="_0A7Ig-IhEeuow9wEZOIavw" name="BASE_ELEMENT">
+                <eObjectValue href="Smart%20Cities%20Underwater.uml#_blnucNtWEeuMqPeQsAaIWw"/>
+              </styles>
+              <element xsi:nil="true"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_0A7IguIhEeuow9wEZOIavw" x="529" y="45"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_0CTBheIhEeuow9wEZOIavw" type="StereotypeComment">
+              <styles xsi:type="notation:TitleStyle" xmi:id="_0CTBhuIhEeuow9wEZOIavw"/>
+              <styles xsi:type="notation:EObjectValueStyle" xmi:id="_0CTBiOIhEeuow9wEZOIavw" name="BASE_ELEMENT">
+                <eObjectValue href="Smart%20Cities%20Underwater.uml#_4Dd9MNtYEeuMqPeQsAaIWw"/>
+              </styles>
+              <element xsi:nil="true"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_0CTBh-IhEeuow9wEZOIavw" x="329" y="325"/>
+            </children>
+            <children xsi:type="notation:Shape" xmi:id="_0CcyieIhEeuow9wEZOIavw" type="StereotypeComment">
+              <styles xsi:type="notation:TitleStyle" xmi:id="_0CcyiuIhEeuow9wEZOIavw"/>
+              <styles xsi:type="notation:EObjectValueStyle" xmi:id="_0CcyjOIhEeuow9wEZOIavw" name="BASE_ELEMENT">
+                <eObjectValue href="Smart%20Cities%20Underwater.uml#_8-Xw8NtYEeuMqPeQsAaIWw"/>
+              </styles>
+              <element xsi:nil="true"/>
+              <layoutConstraint xsi:type="notation:Bounds" xmi:id="_0Ccyi-IhEeuow9wEZOIavw" x="769" y="325"/>
+            </children>
+            <layoutConstraint xsi:type="notation:Bounds" xmi:id="_eMjb2dtTEeuN-rQx2yUVow"/>
+          </children>
+          <element href="Smart%20Cities%20Underwater.uml#_eMejUNtTEeuN-rQx2yUVow"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_eMjb2ttTEeuN-rQx2yUVow" width="891" height="445"/>
+        </children>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_eMjb29tTEeuN-rQx2yUVow" y="46" width="891" height="445"/>
+      </children>
+      <element href="Smart%20Cities%20Underwater.uml#_Yd5P4NtTEeuN-rQx2yUVow"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_eMjb3NtTEeuN-rQx2yUVow" x="30" y="30" width="891" height="491"/>
+    </children>
+    <children xsi:type="notation:Shape" xmi:id="_z4iBgOIhEeuow9wEZOIavw" type="StereotypeComment">
+      <styles xsi:type="notation:TitleStyle" xmi:id="_z4iBgeIhEeuow9wEZOIavw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_z4iBg-IhEeuow9wEZOIavw" name="BASE_ELEMENT">
+        <eObjectValue href="Smart%20Cities%20Underwater.uml#_Yd5P4NtTEeuN-rQx2yUVow"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_z4iBguIhEeuow9wEZOIavw" x="230" y="30"/>
+    </children>
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_eMjb3dtTEeuN-rQx2yUVow" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_eMjb3ttTEeuN-rQx2yUVow"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_eMjb39tTEeuN-rQx2yUVow" diagramKindId="org.eclipse.papyrus.uml.diagram.stateMachine">
+      <owner href="Smart%20Cities%20Underwater.uml#_oM3iENNvEeuZatygrm-7Lg"/>
+    </styles>
+    <element href="Smart%20Cities%20Underwater.uml#_Yd5P4NtTEeuN-rQx2yUVow"/>
+    <edges xsi:type="notation:Connector" xmi:id="_HXmOkNtZEeuMqPeQsAaIWw" type="Transition_Edge" source="_WQqb8NtWEeuMqPeQsAaIWw" target="_blwRUNtWEeuMqPeQsAaIWw">
+      <children xsi:type="notation:DecorationNode" xmi:id="_HXm1oNtZEeuMqPeQsAaIWw" type="Transition_NameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_HXm1odtZEeuMqPeQsAaIWw"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_HXm1ottZEeuMqPeQsAaIWw" type="Transition_GuardLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_HXm1o9tZEeuMqPeQsAaIWw"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_HXm1pNtZEeuMqPeQsAaIWw" type="Transition_StereotypeLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_HXm1pdtZEeuMqPeQsAaIWw" y="60"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_HXmOkdtZEeuMqPeQsAaIWw"/>
+      <element href="Smart%20Cities%20Underwater.uml#_HXAYsNtZEeuMqPeQsAaIWw"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_HXmOkttZEeuMqPeQsAaIWw" points="[115, 122, -643984, -643984]$[360, 120, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_HYjQ0NtZEeuMqPeQsAaIWw" id="(0.9047619047619048,0.2857142857142857)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_HYjQ0dtZEeuMqPeQsAaIWw" id="(0.0,0.3114754098360656)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_Xxi4gNtZEeuMqPeQsAaIWw" type="Transition_Edge" source="_blwRUNtWEeuMqPeQsAaIWw" target="_klpSkNtYEeuMqPeQsAaIWw">
+      <children xsi:type="notation:DecorationNode" xmi:id="_XxjfkNtZEeuMqPeQsAaIWw" type="Transition_NameLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_XxjfkdtZEeuMqPeQsAaIWw"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_XxjfkttZEeuMqPeQsAaIWw" type="Transition_GuardLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_Xxjfk9tZEeuMqPeQsAaIWw"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_XxjflNtZEeuMqPeQsAaIWw" type="Transition_StereotypeLabel">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_XxjfldtZEeuMqPeQsAaIWw" y="60"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_Xxi4gdtZEeuMqPeQsAaIWw"/>
+      <element href="Smart%20Cities%20Underwater.uml#_XxFlgNtZEeuMqPeQsAaIWw"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_Xxi4gttZEeuMqPeQsAaIWw" points="[440, 161, -643984, -643984]$[440, 240, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_XyIuYNtZEeuMqPeQsAaIWw" id="(0.4968944099378882,1.0)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_XyIuYdtZEeuMqPeQsAaIWw" id="(0.49382716049382713,0.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_aJxUINtZEeuMqPeQsAaIWw" type="Transition_Edge" source="_klpSkNtYEeuMqPeQsAaIWw" target="_4Dr_oNtYEeuMqPeQsAaIWw">
+      <children xsi:type="notation:DecorationNode" xmi:id="_aJx7MNtZEeuMqPeQsAaIWw" type="Transition_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_ayVI8NtZEeuMqPeQsAaIWw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_aJx7MdtZEeuMqPeQsAaIWw"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_aJx7MttZEeuMqPeQsAaIWw" type="Transition_GuardLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_ayh9QNtZEeuMqPeQsAaIWw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_aJx7M9tZEeuMqPeQsAaIWw" x="62" y="-29"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_aJx7NNtZEeuMqPeQsAaIWw" type="Transition_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_ay37gNtZEeuMqPeQsAaIWw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_aJx7NdtZEeuMqPeQsAaIWw" y="60"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_aJxUIdtZEeuMqPeQsAaIWw"/>
+      <element href="Smart%20Cities%20Underwater.uml#_aJWdYNtZEeuMqPeQsAaIWw"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_aJxUIttZEeuMqPeQsAaIWw" points="[400, 281, -643984, -643984]$[240, 281, -643984, -643984]$[240, 401, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_aKcpkNtZEeuMqPeQsAaIWw" id="(0.0,0.4878048780487805)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_aKcpkdtZEeuMqPeQsAaIWw" id="(0.39800995024875624,0.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_cSjlkNtZEeuMqPeQsAaIWw" type="Transition_Edge" source="_klpSkNtYEeuMqPeQsAaIWw" target="_8-jXINtYEeuMqPeQsAaIWw">
+      <children xsi:type="notation:DecorationNode" xmi:id="_cSjlk9tZEeuMqPeQsAaIWw" type="Transition_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_c6kn0NtZEeuMqPeQsAaIWw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_cSjllNtZEeuMqPeQsAaIWw"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_cSjlldtZEeuMqPeQsAaIWw" type="Transition_GuardLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_c670MNtZEeuMqPeQsAaIWw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_cSjllttZEeuMqPeQsAaIWw" x="79" y="30"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_cSkMoNtZEeuMqPeQsAaIWw" type="Transition_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_c7WD4NtZEeuMqPeQsAaIWw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_cSkModtZEeuMqPeQsAaIWw" y="60"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_cSjlkdtZEeuMqPeQsAaIWw"/>
+      <element href="Smart%20Cities%20Underwater.uml#_cSFEcNtZEeuMqPeQsAaIWw"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_cSjlkttZEeuMqPeQsAaIWw" points="[480, 280, -643984, -643984]$[680, 280, -643984, -643984]$[680, 401, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_cTYE8NtZEeuMqPeQsAaIWw" id="(0.9876543209876543,0.4634146341463415)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_cTYE8dtZEeuMqPeQsAaIWw" id="(0.4419889502762431,0.0)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_skgKENtZEeuMqPeQsAaIWw" type="Transition_Edge" source="_blwRUNtWEeuMqPeQsAaIWw" target="_n04ZQNtZEeuMqPeQsAaIWw">
+      <children xsi:type="notation:DecorationNode" xmi:id="_skgKE9tZEeuMqPeQsAaIWw" type="Transition_NameLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_tifcUNtZEeuMqPeQsAaIWw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_skgKFNtZEeuMqPeQsAaIWw"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_skgKFdtZEeuMqPeQsAaIWw" type="Transition_GuardLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_tis3sNtZEeuMqPeQsAaIWw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_skgxINtZEeuMqPeQsAaIWw"/>
+      </children>
+      <children xsi:type="notation:DecorationNode" xmi:id="_skgxIdtZEeuMqPeQsAaIWw" type="Transition_StereotypeLabel">
+        <styles xsi:type="notation:BooleanValueStyle" xmi:id="_tjGgUNtZEeuMqPeQsAaIWw" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_skgxIttZEeuMqPeQsAaIWw" y="60"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_skgKEdtZEeuMqPeQsAaIWw"/>
+      <element href="Smart%20Cities%20Underwater.uml#_sj338NtZEeuMqPeQsAaIWw"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_skgKEttZEeuMqPeQsAaIWw" points="[521, 140, -643984, -643984]$[860, 141, -643984, -643984]$[851, 432, -643984, -643984]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_slaJANtZEeuMqPeQsAaIWw" id="(1.0,0.3114754098360656)"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_slawENtZEeuMqPeQsAaIWw" id="(0.5238095238095238,0.2682926829268293)"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_z4iBhOIhEeuow9wEZOIavw" type="StereotypeCommentLink" source="_eMjb0dtTEeuN-rQx2yUVow" target="_z4iBgOIhEeuow9wEZOIavw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_z4iBheIhEeuow9wEZOIavw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_z4iBieIhEeuow9wEZOIavw" name="BASE_ELEMENT">
+        <eObjectValue href="Smart%20Cities%20Underwater.uml#_Yd5P4NtTEeuN-rQx2yUVow"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_z4iBhuIhEeuow9wEZOIavw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_z4iBh-IhEeuow9wEZOIavw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_z4iBiOIhEeuow9wEZOIavw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_0A7IhOIhEeuow9wEZOIavw" type="StereotypeCommentLink" source="_blwRUNtWEeuMqPeQsAaIWw" target="_0A7IgOIhEeuow9wEZOIavw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_0A7IheIhEeuow9wEZOIavw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_0A7IieIhEeuow9wEZOIavw" name="BASE_ELEMENT">
+        <eObjectValue href="Smart%20Cities%20Underwater.uml#_blnucNtWEeuMqPeQsAaIWw"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_0A7IhuIhEeuow9wEZOIavw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_0A7Ih-IhEeuow9wEZOIavw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_0A7IiOIhEeuow9wEZOIavw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_0CTBieIhEeuow9wEZOIavw" type="StereotypeCommentLink" source="_4Dr_oNtYEeuMqPeQsAaIWw" target="_0CTBheIhEeuow9wEZOIavw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_0CTBiuIhEeuow9wEZOIavw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_0CTBjuIhEeuow9wEZOIavw" name="BASE_ELEMENT">
+        <eObjectValue href="Smart%20Cities%20Underwater.uml#_4Dd9MNtYEeuMqPeQsAaIWw"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_0CTBi-IhEeuow9wEZOIavw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_0CTBjOIhEeuow9wEZOIavw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_0CTBjeIhEeuow9wEZOIavw"/>
+    </edges>
+    <edges xsi:type="notation:Connector" xmi:id="_0CcyjeIhEeuow9wEZOIavw" type="StereotypeCommentLink" source="_8-jXINtYEeuMqPeQsAaIWw" target="_0CcyieIhEeuow9wEZOIavw">
+      <styles xsi:type="notation:FontStyle" xmi:id="_0CcyjuIhEeuow9wEZOIavw"/>
+      <styles xsi:type="notation:EObjectValueStyle" xmi:id="_0CcykuIhEeuow9wEZOIavw" name="BASE_ELEMENT">
+        <eObjectValue href="Smart%20Cities%20Underwater.uml#_8-Xw8NtYEeuMqPeQsAaIWw"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_0Ccyj-IhEeuow9wEZOIavw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_0CcykOIhEeuow9wEZOIavw"/>
+      <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_0CcykeIhEeuow9wEZOIavw"/>
+    </edges>
+  </notation:Diagram>
+</xmi:XMI>
